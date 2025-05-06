@@ -1225,6 +1225,7 @@
       "minecraft:spider": "2025-05-04 02:41:44 +0000",
       "minecraft:creeper": "2025-05-04 00:48:27 +0000",
       "minecraft:cave_spider": "2025-05-04 01:01:03 +0000",
+      "minecraft:piglin": "2025-05-06 04:58:43 +0000",
       "minecraft:enderman": "2025-05-04 22:09:44 +0000",
       "minecraft:zombie": "2025-05-04 00:50:10 +0000"
     },
@@ -3702,21 +3703,15 @@
     },
     "done": true
   },
-  "spartanweaponry:collect_heads": {
+  "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
-      "skeleton_skull": "2025-05-06 04:38:58 +0000"
+      "killed_fire_dragon": "2025-05-06 04:37:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "iceandfire:recipes/combat/armor_red_chestplate": {
     "criteria": {
       "has_item": "2025-05-06 04:38:35 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_if_dragon": {
-    "criteria": {
-      "killed_fire_dragon": "2025-05-06 04:37:59 +0000"
     },
     "done": true
   },
@@ -3749,6 +3744,48 @@
       "egg": "2025-05-06 04:38:35 +0000"
     },
     "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "skeleton_skull": "2025-05-06 04:38:58 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-05-06 04:56:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-05-06 04:57:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-05-06 04:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-06 04:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-06 04:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-05-06 04:58:30 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
