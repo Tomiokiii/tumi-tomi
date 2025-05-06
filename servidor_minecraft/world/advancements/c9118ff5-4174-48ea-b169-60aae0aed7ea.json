@@ -4290,5 +4290,11 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/tame_hippogryph": {
+    "criteria": {
+      "tame_rat": "2025-05-06 03:28:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
