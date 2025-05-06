@@ -3787,5 +3787,17 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-05-06 05:31:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-05-06 05:37:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
