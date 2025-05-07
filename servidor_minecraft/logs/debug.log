@@ -4934,3 +4934,39 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07May2025 02:45:32.846] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [07May2025 02:45:33.551] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [07May2025 02:45:34.400] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07May2025 02:49:28.001] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:49:28.049] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:49:28.097] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:49:28.150] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:49:28.201] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:49:28.248] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:49:28.450] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:49:28.501] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:49:28.548] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:49:28.596] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:49:28.650] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:49:28.698] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:49:28.749] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:49:28.798] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:49:28.850] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:49:28.900] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:49:28.948] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:49:28.996] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:49:29.048] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:49:29.098] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:49:29.150] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:49:29.198] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:49:29.247] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:49:29.300] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:49:29.348] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:49:29.404] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:49:40.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[07May2025 02:49:40.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[07May2025 02:50:45.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> zorra
+[07May2025 02:53:57.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> mira
+[07May2025 02:54:03.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> el diamante era apra esto
+[07May2025 02:54:06.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> pero no funciono
+[07May2025 02:54:35.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> pero tenes que " guardarlo " ?
+[07May2025 02:54:39.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> no
+[07May2025 02:54:40.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[07May2025 02:54:40.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii

@@ -4330,6 +4330,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2025-05-07 02:44:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-07 02:44:46 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/iced_dragon_bone_scythe": {
     "criteria": {
       "has_ice_dragon_blood": "2025-05-07 02:28:25 +0000"
@@ -4345,6 +4357,12 @@
   "spartanfire:recipes/iced_dragon_bone_glaive": {
     "criteria": {
       "has_ice_dragon_blood": "2025-05-07 02:28:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-05-07 02:44:46 +0000"
     },
     "done": true
   },
@@ -4381,6 +4399,12 @@
   "spartanfire:recipes/iced_dragon_bone_katana": {
     "criteria": {
       "has_ice_dragon_blood": "2025-05-07 02:28:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-05-07 02:44:46 +0000"
     },
     "done": true
   },
@@ -4453,6 +4477,12 @@
   "spartanfire:recipes/iced_dragon_bone_spear": {
     "criteria": {
       "has_ice_dragon_blood": "2025-05-07 02:28:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-05-07 02:44:46 +0000"
     },
     "done": true
   },
