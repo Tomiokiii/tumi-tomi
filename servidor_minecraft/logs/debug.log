@@ -5158,3 +5158,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07May2025 03:05:41.805] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@8c21594 into net.minecraft.network.Connection@5e22ed60
 [07May2025 03:05:41.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTomiokiii joined the game
 [07May2025 03:06:00.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> filo V
+[07May2025 03:06:26.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTomiokiii lost connection: Timed out
+[07May2025 03:06:26.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTomiokiii left the game
+[07May2025 03:09:40.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[07May2025 03:09:40.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[07May2025 03:11:10.942] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07May2025 03:11:13.443] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07May2025 03:14:40.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[07May2025 03:14:40.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii

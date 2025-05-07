@@ -4324,21 +4324,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spectral_bolt": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-07 01:20:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-07 01:20:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-07 01:20:04 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/iced_dragon_bone_pike": {
     "criteria": {
       "has_ice_dragon_blood": "2025-05-07 02:28:25 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_silver_boots": {
-    "criteria": {
-      "has_item": "2025-05-07 02:44:46 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_silver_chestplate": {
-    "criteria": {
-      "has_item": "2025-05-07 02:44:46 +0000"
     },
     "done": true
   },
@@ -4360,21 +4366,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_silver_helmet": {
-    "criteria": {
-      "has_item": "2025-05-07 02:44:46 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/iced_dragon_bone_longbow": {
     "criteria": {
       "has_ice_dragon_blood": "2025-05-07 02:28:25 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spectral_bolt": {
-    "criteria": {
-      "has_glowstone_dust": "2025-05-07 01:20:04 +0000"
     },
     "done": true
   },
@@ -4399,12 +4393,6 @@
   "spartanfire:recipes/iced_dragon_bone_katana": {
     "criteria": {
       "has_ice_dragon_blood": "2025-05-07 02:28:25 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_silver_leggings": {
-    "criteria": {
-      "has_item": "2025-05-07 02:44:46 +0000"
     },
     "done": true
   },
@@ -4480,18 +4468,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
-    "criteria": {
-      "has_dragonscales_silver": "2025-05-07 02:44:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-05-07 01:20:04 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/iced_dragon_bone_greatsword": {
     "criteria": {
       "has_ice_dragon_blood": "2025-05-07 02:28:25 +0000"
@@ -4504,12 +4480,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-05-07 01:20:04 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/dragonbone_sword_ice": {
     "criteria": {
       "has_item": "2025-05-07 02:28:25 +0000"
@@ -4519,6 +4489,36 @@
   "spartanfire:recipes/iced_dragon_bone_lance": {
     "criteria": {
       "has_ice_dragon_blood": "2025-05-07 02:28:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2025-05-07 02:44:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-07 02:44:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-05-07 02:44:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-05-07 02:44:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-05-07 02:44:46 +0000"
     },
     "done": true
   },
