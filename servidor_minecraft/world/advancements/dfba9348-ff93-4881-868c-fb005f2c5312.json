@@ -3793,15 +3793,51 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-05-06 05:37:08 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/simple_pole": {
     "criteria": {
       "has_handle": "2025-05-06 05:55:47 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_meal": {
+  "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
-      "bestiary": "2025-05-06 05:37:08 +0000"
+      "has_black_wool": "2025-05-06 06:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-05-06 06:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-05-06 06:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-06 06:02:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-06 06:02:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-06 06:02:03 +0000"
     },
     "done": true
   },
