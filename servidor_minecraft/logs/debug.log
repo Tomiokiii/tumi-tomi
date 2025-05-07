@@ -4809,3 +4809,46 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07May2025 02:13:58.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> XDW
 [07May2025 02:14:40.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
 [07May2025 02:14:40.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[07May2025 02:16:51.250] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:51.296] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:51.347] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:51.399] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:51.449] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:51.500] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:51.548] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:51.598] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:51.648] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:51.699] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:52.453] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:52.503] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:52.561] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:52.561] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:52.606] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:52.606] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:52.651] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:52.651] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:52.701] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:52.701] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:52.750] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:52.750] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:52.802] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:52.802] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:52.850] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:52.850] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:52.898] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:52.898] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:16:52.953] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07May2025 02:17:20.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTomiokiii moved too quickly! -4.234229448923088,3.176759275064242,-8.605623568880219
+[07May2025 02:19:33.830] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07May2025 02:19:34.652] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07May2025 02:19:35.220] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07May2025 02:19:40.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[07May2025 02:19:40.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[07May2025 02:22:24.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> decime
+[07May2025 02:22:33.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> XD
+[07May2025 02:22:36.042] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07May2025 02:23:53.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> vamo
+[07May2025 02:24:00.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> VAMOOOO
+[07May2025 02:24:02.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> Deah
+[07May2025 02:24:40.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[07May2025 02:24:40.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
