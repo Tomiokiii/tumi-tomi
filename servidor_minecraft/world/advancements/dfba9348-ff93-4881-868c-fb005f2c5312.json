@@ -3859,5 +3859,11 @@
     },
     "done": true
   },
+  "spartanweaponry:longsword": {
+    "criteria": {
+      "has_longsword": "2025-05-07 05:32:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
