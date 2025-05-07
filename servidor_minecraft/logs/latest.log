@@ -221,3 +221,8 @@
 [07May2025 04:31:00.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1474, y=64, z=961} BlockPos{x=-1472, y=62, z=960}
 [07May2025 04:31:00.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1474, y=64, z=961} BlockPos{x=-1472, y=62, z=960}
 [07May2025 04:31:00.793] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1473, y=64, z=960} BlockPos{x=-1472, y=62, z=960}
+[07May2025 04:48:40.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07May2025 04:48:40.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsySay  Say Say aSay aa<--[HERE]
+[07May2025 04:48:51.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] daysay. . etssas ahi pibe?
+[07May2025 04:48:56.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> si mano XD
+[07May2025 04:49:08.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ah ya, hagald, diga con lo suyo
