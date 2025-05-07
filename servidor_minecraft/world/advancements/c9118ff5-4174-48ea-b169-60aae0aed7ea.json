@@ -526,6 +526,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-04 01:44:46 +0000",
+      "chicken": "2025-05-07 01:18:46 +0000",
       "cooked_mutton": "2025-05-04 01:30:14 +0000",
       "cooked_beef": "2025-05-04 02:28:08 +0000",
       "beef": "2025-05-04 23:06:08 +0000",
@@ -4296,9 +4297,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_flute": {
+  "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
-      "bestiary": "2025-05-07 00:50:15 +0000"
+      "egg": "2025-05-07 00:47:13 +0000"
     },
     "done": true
   },
@@ -4308,9 +4309,15 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_egg": {
+  "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
-      "egg": "2025-05-07 00:47:13 +0000"
+      "bestiary": "2025-05-07 00:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-05-07 01:19:36 +0000"
     },
     "done": true
   },
