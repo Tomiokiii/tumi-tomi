@@ -1229,6 +1229,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-04 01:23:44 +0000",
+      "minecraft:hoglin": "2025-05-08 05:23:57 +0000",
       "minecraft:spider": "2025-05-04 02:41:44 +0000",
       "minecraft:creeper": "2025-05-04 00:48:27 +0000",
       "minecraft:phantom": "2025-05-08 04:13:06 +0000",
@@ -4214,6 +4215,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-05-08 05:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-08 05:27:00 +0000"
     },
     "done": true
   },
