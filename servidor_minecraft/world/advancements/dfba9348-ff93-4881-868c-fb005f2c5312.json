@@ -1234,12 +1234,14 @@
       "minecraft:vindicator": "2025-05-08 07:08:35 +0000",
       "minecraft:spider": "2025-05-04 02:41:44 +0000",
       "minecraft:creeper": "2025-05-04 00:48:27 +0000",
+      "minecraft:evoker": "2025-05-08 07:34:33 +0000",
       "minecraft:phantom": "2025-05-08 04:13:06 +0000",
       "minecraft:zombified_piglin": "2025-05-08 01:16:58 +0000",
       "minecraft:witch": "2025-05-07 05:55:43 +0000",
       "minecraft:cave_spider": "2025-05-04 01:01:03 +0000",
       "minecraft:piglin": "2025-05-06 04:58:43 +0000",
       "minecraft:enderman": "2025-05-04 22:09:44 +0000",
+      "minecraft:vex": "2025-05-08 07:35:39 +0000",
       "minecraft:zombie": "2025-05-04 00:50:10 +0000"
     },
     "done": false
@@ -4398,6 +4400,12 @@
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-05-08 05:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-05-08 07:43:36 +0000"
     },
     "done": true
   },

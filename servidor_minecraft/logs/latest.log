@@ -269,3 +269,9 @@
 [08May2025 07:10:21.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippogryph (vehicle of ElTumiko) moved wrongly! 0.6743976513745338
 [08May2025 07:10:21.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippogryph (vehicle of ElTumiko) moved wrongly! 0.5694707728853245
 [08May2025 07:16:10.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko has made the advancement [Ol' Betsy]
+[08May2025 07:27:58.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08May2025 07:27:58.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[08May2025 07:28:04.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08May2025 07:28:04.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[08May2025 07:28:10.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> a
+[08May2025 07:33:25.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Hard
