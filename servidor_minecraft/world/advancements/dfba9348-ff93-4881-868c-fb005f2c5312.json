@@ -43,6 +43,7 @@
       "minecraft:frozen_ocean": "2025-05-04 03:08:51 +0000",
       "minecraft:ocean": "2025-05-08 03:53:12 +0000",
       "minecraft:windswept_savanna": "2025-05-08 03:52:41 +0000",
+      "minecraft:flower_forest": "2025-05-08 04:34:32 +0000",
       "minecraft:frozen_peaks": "2025-05-04 05:42:35 +0000",
       "minecraft:meadow": "2025-05-04 00:36:49 +0000",
       "minecraft:windswept_gravelly_hills": "2025-05-04 05:07:00 +0000",
@@ -4201,6 +4202,42 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-08 04:32:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-05-08 05:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-05-08 05:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-05-08 05:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-05-08 05:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-05-08 05:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-05-08 05:18:58 +0000"
     },
     "done": true
   },
