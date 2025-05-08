@@ -248,3 +248,10 @@
 [08May2025 05:48:17.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko has made the advancement [Hot Stuff]
 [08May2025 05:48:25.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> XD
 [08May2025 05:48:29.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> oe mano
+[08May2025 05:56:18.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-657, y=53, z=1598} BlockPos{x=-657, y=52, z=1598}
+[08May2025 05:56:18.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-657, y=53, z=1598} BlockPos{x=-657, y=52, z=1598}
+[08May2025 05:56:18.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-658, y=53, z=1598} BlockPos{x=-657, y=52, z=1598}
+[08May2025 05:56:18.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-658, y=53, z=1598} BlockPos{x=-657, y=52, z=1598}
+[08May2025 05:56:57.326] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-659, y=53, z=1596} BlockPos{x=-659, y=54, z=1594}
+[08May2025 05:56:57.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-659, y=53, z=1596} BlockPos{x=-659, y=54, z=1594}
+[08May2025 05:56:57.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-659, y=53, z=1596} BlockPos{x=-659, y=54, z=1594}
