@@ -255,3 +255,16 @@
 [08May2025 05:56:57.326] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-659, y=53, z=1596} BlockPos{x=-659, y=54, z=1594}
 [08May2025 05:56:57.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-659, y=53, z=1596} BlockPos{x=-659, y=54, z=1594}
 [08May2025 05:56:57.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-659, y=53, z=1596} BlockPos{x=-659, y=54, z=1594}
+[08May2025 06:59:02.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-638, y=192, z=1607} BlockPos{x=-638, y=191, z=1607}
+[08May2025 07:02:02.242] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTumiko lost connection: Disconnected
+[08May2025 07:02:02.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko left the game
+[08May2025 07:02:11.774] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ElTumiko is dfba9348-ff93-4881-868c-fb005f2c5312
+[08May2025 07:02:18.062] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElTumiko[/127.110.76.174:54185] logged in with entity id 24036 at (-1832.2202057910251, 83.0, 1228.237500011921)
+[08May2025 07:02:18.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko joined the game
+[08May2025 07:04:48.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko has made the advancement [Voluntary Exile]
+[08May2025 07:10:21.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippogryph (vehicle of ElTumiko) moved wrongly! 1.1875492668395964
+[08May2025 07:10:21.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippogryph (vehicle of ElTumiko) moved wrongly! 1.048231313042379
+[08May2025 07:10:21.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippogryph (vehicle of ElTumiko) moved wrongly! 0.9239875582653667
+[08May2025 07:10:21.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippogryph (vehicle of ElTumiko) moved wrongly! 0.7920550582654187
+[08May2025 07:10:21.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippogryph (vehicle of ElTumiko) moved wrongly! 0.6743976513745338
+[08May2025 07:10:21.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippogryph (vehicle of ElTumiko) moved wrongly! 0.5694707728853245
