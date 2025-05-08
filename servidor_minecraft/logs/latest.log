@@ -3,3 +3,26 @@
 [08May2025 00:53:43.876] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ElTomiokiii is c9118ff5-4174-48ea-b169-60aae0aed7ea
 [08May2025 00:53:47.788] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElTomiokiii[/127.213.250.82:58693] logged in with entity id 16156 at (-1796.5, 88.0, 1230.5)
 [08May2025 00:53:47.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTomiokiii joined the game
+[08May2025 01:02:09.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTomiokiii has made the advancement [Those Were the Days]
+[08May2025 01:02:15.511] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTomiokiii lost connection: Disconnected
+[08May2025 01:02:15.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTomiokiii left the game
+[08May2025 01:03:45.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08May2025 01:03:45.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stop<--[HERE]
+[08May2025 01:04:01.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08May2025 01:04:01.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stop<--[HERE]
+[08May2025 01:04:08.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[08May2025 01:04:08.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: stop server<--[HERE]
+[08May2025 01:04:26.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[08May2025 01:04:26.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08May2025 01:04:26.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08May2025 01:04:26.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08May2025 01:04:26.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[tumiko y tomiokiii]'/minecraft:overworld
+[08May2025 01:04:26.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[tumiko y tomiokiii]'/minecraft:the_end
+[08May2025 01:04:26.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[tumiko y tomiokiii]'/minecraft:the_nether
+[08May2025 01:04:26.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[tumiko y tomiokiii]'/twilightforest:twilight_forest
+[08May2025 01:04:26.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08May2025 01:04:26.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08May2025 01:04:26.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08May2025 01:04:26.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[08May2025 01:04:26.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08May2025 01:04:26.732] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

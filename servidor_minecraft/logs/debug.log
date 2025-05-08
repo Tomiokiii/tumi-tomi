@@ -2949,3 +2949,33 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08May2025 00:53:47.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTomiokiii joined the game
 [08May2025 00:56:13.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
 [08May2025 00:56:13.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[08May2025 01:01:02.540] [Worker-Main-78/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[08May2025 01:01:13.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[08May2025 01:01:13.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[08May2025 01:02:09.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTomiokiii has made the advancement [Those Were the Days]
+[08May2025 01:02:13.912] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 01:02:15.511] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTomiokiii lost connection: Disconnected
+[08May2025 01:02:15.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTomiokiii left the game
+[08May2025 01:03:45.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08May2025 01:03:45.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stop<--[HERE]
+[08May2025 01:04:01.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08May2025 01:04:01.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stop<--[HERE]
+[08May2025 01:04:08.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[08May2025 01:04:08.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: stop server<--[HERE]
+[08May2025 01:04:26.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[08May2025 01:04:26.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08May2025 01:04:26.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08May2025 01:04:26.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08May2025 01:04:26.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[tumiko y tomiokiii]'/minecraft:overworld
+[08May2025 01:04:26.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[tumiko y tomiokiii]'/minecraft:the_end
+[08May2025 01:04:26.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[tumiko y tomiokiii]'/minecraft:the_nether
+[08May2025 01:04:26.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[tumiko y tomiokiii]'/twilightforest:twilight_forest
+[08May2025 01:04:26.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[08May2025 01:04:26.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[08May2025 01:04:26.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08May2025 01:04:26.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08May2025 01:04:26.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08May2025 01:04:26.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[08May2025 01:04:26.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08May2025 01:04:26.731] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[08May2025 01:04:26.732] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

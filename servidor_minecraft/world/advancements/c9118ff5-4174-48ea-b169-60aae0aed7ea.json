@@ -1298,8 +1298,10 @@
       "minecraft:pillager": "2025-05-05 00:30:34 +0000",
       "minecraft:skeleton": "2025-05-04 00:48:05 +0000",
       "minecraft:spider": "2025-05-04 02:29:55 +0000",
+      "minecraft:piglin_brute": "2025-05-08 01:01:39 +0000",
       "minecraft:creeper": "2025-05-04 05:27:47 +0000",
       "minecraft:witch": "2025-05-04 01:57:38 +0000",
+      "minecraft:piglin": "2025-05-08 01:01:33 +0000",
       "minecraft:stray": "2025-05-04 04:14:27 +0000",
       "minecraft:enderman": "2025-05-04 22:35:34 +0000",
       "minecraft:zombie": "2025-05-04 00:49:30 +0000"
@@ -3726,7 +3728,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-05-04 05:04:54 +0000"
+      "minecraft:crimson_forest": "2025-05-04 05:04:54 +0000",
+      "minecraft:nether_wastes": "2025-05-08 01:01:55 +0000"
     },
     "done": false
   },
@@ -4651,6 +4654,12 @@
   "twilightforest:recipes/transportation/dark_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-07 03:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-08 01:02:09 +0000"
     },
     "done": true
   },
