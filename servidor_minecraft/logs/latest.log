@@ -1,2 +1,5 @@
 [08May2025 00:46:10.961] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTumiko lost connection: Disconnected
 [08May2025 00:46:10.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko left the game
+[08May2025 00:53:43.876] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ElTomiokiii is c9118ff5-4174-48ea-b169-60aae0aed7ea
+[08May2025 00:53:47.788] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElTomiokiii[/127.213.250.82:58693] logged in with entity id 16156 at (-1796.5, 88.0, 1230.5)
+[08May2025 00:53:47.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTomiokiii joined the game
