@@ -4106,3 +4106,415 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08May2025 22:40:53.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTomiokiii lost connection: Disconnected
 [08May2025 22:40:53.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTomiokiii left the game
 [08May2025 22:41:12.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> XD
+[08May2025 22:41:22.957] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:41:22.957] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 22.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 11.0 Damage not ignoring armor: 11.0 Reduced Damage: 11.0 Result Damage: 22.0
+[08May2025 22:41:30.046] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:41:47.499] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:41:47.499] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 26.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 13.0 Damage not ignoring armor: 13.0 Reduced Damage: 12.792001 Result Damage: 25.792
+[08May2025 22:41:59.210] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:41:59.210] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 22:41:59.916] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:42:01.847] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:42:03.465] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:42:44.347] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:42:44.347] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 24.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 12.0 Damage not ignoring armor: 12.0 Reduced Damage: 12.0 Result Damage: 24.0
+[08May2025 22:43:05.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[08May2025 22:43:05.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[08May2025 22:43:33.648] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:43:33.648] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 21.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 10.5 Damage not ignoring armor: 10.5 Reduced Damage: 10.5 Result Damage: 21.0
+[08May2025 22:44:09.447] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:44:09.447] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 21.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 10.5 Damage not ignoring armor: 10.5 Reduced Damage: 10.332001 Result Damage: 20.832
+[08May2025 22:45:24.648] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:45:24.648] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 23.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 11.5 Damage not ignoring armor: 11.5 Reduced Damage: 11.316 Result Damage: 22.816
+[08May2025 22:45:51.847] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:45:51.847] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 19.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 9.5 Damage not ignoring armor: 9.5 Reduced Damage: 9.348001 Result Damage: 18.848
+[08May2025 22:45:54.296] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:45:54.297] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 23.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 11.5 Damage not ignoring armor: 11.5 Reduced Damage: 11.316 Result Damage: 22.816
+[08May2025 22:46:02.347] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:46:02.348] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 18.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 9.0 Damage not ignoring armor: 9.0 Reduced Damage: 9.0 Result Damage: 18.0
+[08May2025 22:46:04.945] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:46:04.946] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 21.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 10.5 Damage not ignoring armor: 10.5 Reduced Damage: 10.5 Result Damage: 21.0
+[08May2025 22:46:07.846] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:46:07.847] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 23.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 11.5 Damage not ignoring armor: 11.5 Reduced Damage: 11.5 Result Damage: 23.0
+[08May2025 22:46:30.247] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:46:30.247] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 19.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 9.5 Damage not ignoring armor: 9.5 Reduced Damage: 9.5 Result Damage: 19.0
+[08May2025 22:46:37.646] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:46:37.646] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 20.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 10.0 Damage not ignoring armor: 10.0 Reduced Damage: 10.0 Result Damage: 20.0
+[08May2025 22:46:40.346] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:46:40.346] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 22.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 11.0 Damage not ignoring armor: 11.0 Reduced Damage: 11.0 Result Damage: 22.0
+[08May2025 22:46:43.247] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:46:43.247] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 22.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 11.0 Damage not ignoring armor: 11.0 Reduced Damage: 11.0 Result Damage: 22.0
+[08May2025 22:46:45.646] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:46:45.646] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 23.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 11.5 Damage not ignoring armor: 11.5 Reduced Damage: 11.5 Result Damage: 23.0
+[08May2025 22:46:48.048] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:46:48.048] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 24.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 12.0 Damage not ignoring armor: 12.0 Reduced Damage: 11.808001 Result Damage: 23.808
+[08May2025 22:46:50.498] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:46:50.498] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 22.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 11.0 Damage not ignoring armor: 11.0 Reduced Damage: 10.824 Result Damage: 21.824001
+[08May2025 22:46:55.796] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:46:55.846] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:46:55.898] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:46:55.946] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:46:56.000] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:46:56.048] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:46:59.950] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:46:59.950] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 19.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 9.5 Damage not ignoring armor: 9.5 Reduced Damage: 9.5 Result Damage: 19.0
+[08May2025 22:47:12.400] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:47:12.849] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:47:12.905] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:47:12.946] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:47:12.997] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:47:13.048] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:47:13.097] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:47:13.151] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:47:13.198] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:47:17.114] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:47:17.716] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:47:18.363] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:47:19.015] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:47:19.016] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 22:47:19.609] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:47:26.615] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:47:27.810] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:47:30.063] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:47:30.863] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:47:32.067] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:47:32.815] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:47:33.561] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:47:33.562] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 22:48:05.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[08May2025 22:48:05.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[08May2025 22:48:15.467] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:48:16.060] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:48:18.898] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:48:18.898] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 29.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 14.5 Damage not ignoring armor: 14.5 Reduced Damage: 14.268001 Result Damage: 28.768002
+[08May2025 22:48:20.165] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:48:20.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:48:21.919] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:48:22.617] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:48:38.162] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:48:38.716] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:48:38.716] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 22:48:41.663] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:48:42.912] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:48:43.515] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:48:44.118] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:48:44.947] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:48:58.119] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:48:58.757] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:48:59.613] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:48:59.613] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 22:49:00.261] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:49:01.318] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:49:02.012] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:49:02.013] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 22:49:10.817] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:49:11.567] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:49:11.567] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 22:49:12.215] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:49:18.699] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:49:18.700] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 24.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 12.0 Damage not ignoring armor: 12.0 Reduced Damage: 11.808001 Result Damage: 23.808
+[08May2025 22:49:22.599] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:49:22.913] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:49:22.946] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:49:22.997] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:49:23.047] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:49:23.098] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:49:23.147] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:49:23.198] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:49:23.248] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:49:23.298] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:49:23.349] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:49:23.398] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:49:23.446] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:49:24.313] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:49:24.596] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:49:24.648] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:49:25.048] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:49:25.097] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:49:25.146] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:49:27.462] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:49:28.367] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:49:38.499] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:49:38.500] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 22.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 11.0 Damage not ignoring armor: 11.0 Reduced Damage: 11.0 Result Damage: 22.0
+[08May2025 22:49:56.947] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:49:56.947] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 28.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 14.0 Damage not ignoring armor: 14.0 Reduced Damage: 14.0 Result Damage: 28.0
+[08May2025 22:50:30.945] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:50:30.945] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 18.0 Armor value: 13.0 Damage ignoring armor (50.0% damage): 9.0 Damage not ignoring armor: 9.0 Reduced Damage: 5.9399996 Result Damage: 14.94
+[08May2025 22:50:35.066] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:50:35.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:51:16.916] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:51:17.713] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:51:19.718] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:51:19.718] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 22:51:20.515] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:51:27.216] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:51:27.865] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:51:30.563] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:51:31.115] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:51:31.115] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 22:51:31.960] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:51:46.296] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:51:46.296] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 28.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 14.0 Damage not ignoring armor: 14.0 Reduced Damage: 14.0 Result Damage: 28.0
+[08May2025 22:51:53.195] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:52:06.819] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:52:28.995] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:52:28.995] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 26.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 13.0 Damage not ignoring armor: 13.0 Reduced Damage: 13.0 Result Damage: 26.0
+[08May2025 22:52:33.346] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:52:35.395] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:52:35.445] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:52:35.496] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:52:35.549] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:52:35.600] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:52:35.651] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:52:35.699] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:52:35.747] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:52:35.795] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:52:35.845] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:52:35.898] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:52:35.947] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:52:35.995] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:52:36.047] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:52:36.096] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:52:36.146] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:52:38.645] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:52:38.645] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 21.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 10.5 Damage not ignoring armor: 10.5 Reduced Damage: 10.5 Result Damage: 21.0
+[08May2025 22:53:02.662] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 29 messages to dispatch.
+[08May2025 22:53:03.303] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ElTomiokiii is c9118ff5-4174-48ea-b169-60aae0aed7ea
+[08May2025 22:53:03.351] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[08May2025 22:53:03.398] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[08May2025 22:53:03.447] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[08May2025 22:53:03.499] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, mowziesmobs, terrablender, eyesoficeandfire, geckolib, playeranimator, creativecore, jei, supermartijn642corelib, portablemobs, kotlinforforge, spartantoolkit, rubidium, sodium, spartanshields, patchouli, journeymap, citadel, naturescompass, spartanfire, mixinextras, badmobs, spartanweaponry, architectury, mca, iceandfire, deep_dark_regrowth, carryon, cloth_config, forge, twilightforest, quarkdelight, darkmodeeverywhere]
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'deep_dark_regrowth:deep_dark_regrowth' : Version test of '1' from client : ACCEPTED
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:version' : Version test of '1' from client : ACCEPTED
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldinfo:world_id' : Version test of '1' from client : ACCEPTED
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_req' : Version test of '1' from client : ACCEPTED
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:waypoint' : Version test of '1' from client : ACCEPTED
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:mp_options_req' : Version test of '1' from client : ACCEPTED
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanshields:network' : Version test of '1' from client : ACCEPTED
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mca:main' : Version test of '1' from client : ACCEPTED
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'naturescompass:naturescompass' : Version test of '1.0' from client : ACCEPTED
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:player_loc' : Version test of '1' from client : ACCEPTED
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_save' : Version test of '1' from client : ACCEPTED
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:teleport_req' : Version test of '1' from client : ACCEPTED
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'quarkdelight:quarkdelight' : Version test of '1' from client : ACCEPTED
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[08May2025 22:53:03.548] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:common' : Version test of '1' from client : ACCEPTED
+[08May2025 22:53:03.549] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanweaponry:network' : Version test of '1' from client : ACCEPTED
+[08May2025 22:53:03.549] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[08May2025 22:53:03.549] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[08May2025 22:53:03.549] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:perm_req' : Version test of '1' from client : ACCEPTED
+[08May2025 22:53:03.549] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'twilightforest:channel' : Version test of '2' from client : ACCEPTED
+[08May2025 22:53:03.549] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[08May2025 22:53:03.549] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[08May2025 22:53:03.549] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[08May2025 22:53:03.550] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[08May2025 22:53:03.589] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[08May2025 22:53:03.589] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:03.589] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:03.598] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[08May2025 22:53:03.649] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[08May2025 22:53:03.658] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[08May2025 22:53:03.658] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:03.658] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:03.696] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:tiny_bird_variant' to 'fml:handshake' sequence 7
+[08May2025 22:53:03.748] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 8
+[08May2025 22:53:03.797] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 9
+[08May2025 22:53:03.846] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 10
+[08May2025 22:53:03.879] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[08May2025 22:53:03.879] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:03.879] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:03.879] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[08May2025 22:53:03.879] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:03.879] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:03.898] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 11
+[08May2025 22:53:03.898] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[08May2025 22:53:03.898] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:03.898] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:03.898] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[08May2025 22:53:03.898] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:03.898] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:03.946] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 12
+[08May2025 22:53:03.983] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[08May2025 22:53:03.983] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:03.983] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:03.983] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[08May2025 22:53:03.983] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:03.983] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:03.983] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[08May2025 22:53:03.983] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:03.983] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:03.999] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 13
+[08May2025 22:53:04.044] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[08May2025 22:53:04.044] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:04.044] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:04.046] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 14
+[08May2025 22:53:04.083] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[08May2025 22:53:04.083] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:04.083] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:04.097] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:oil_effects' to 'fml:handshake' sequence 15
+[08May2025 22:53:04.146] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[08May2025 22:53:04.146] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:04.146] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:04.146] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 16
+[08May2025 22:53:04.196] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[08May2025 22:53:04.196] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:04.196] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:04.197] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:weapon_traits' to 'fml:handshake' sequence 17
+[08May2025 22:53:04.254] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 18
+[08May2025 22:53:04.292] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[08May2025 22:53:04.293] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:04.293] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:04.293] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[08May2025 22:53:04.293] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:04.293] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:04.298] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 19
+[08May2025 22:53:04.347] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:enforcement' to 'fml:handshake' sequence 20
+[08May2025 22:53:04.398] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 21
+[08May2025 22:53:04.454] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:dwarf_rabbit_variant' to 'fml:handshake' sequence 22
+[08May2025 22:53:04.497] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[08May2025 22:53:04.498] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:04.498] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:04.498] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[08May2025 22:53:04.498] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:04.498] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:04.499] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 23
+[08May2025 22:53:04.547] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 24
+[08May2025 22:53:04.604] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 25
+[08May2025 22:53:04.629] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[08May2025 22:53:04.629] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:04.629] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:04.629] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[08May2025 22:53:04.629] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:04.629] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:04.651] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 26
+[08May2025 22:53:04.651] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[08May2025 22:53:04.651] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:04.651] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:04.696] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 27
+[08May2025 22:53:04.747] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 28
+[08May2025 22:53:04.867] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[08May2025 22:53:04.867] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:04.867] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:04.867] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[08May2025 22:53:04.867] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:04.867] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:04.867] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[08May2025 22:53:04.867] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:04.867] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:05.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[08May2025 22:53:05.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[08May2025 22:53:06.835] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[08May2025 22:53:06.835] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:06.835] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:06.838] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[08May2025 22:53:06.838] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:06.838] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:06.838] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[08May2025 22:53:06.838] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:06.838] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:06.839] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[08May2025 22:53:06.839] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08May2025 22:53:06.839] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08May2025 22:53:06.848] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[08May2025 22:53:06.909] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElTomiokiii[/127.213.250.82:45477] logged in with entity id 15791 at (-1797.0328221321336, 88.0, 1231.1336086275765)
+[08May2025 22:53:06.909] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@51c1f68d into net.minecraft.network.Connection@6cdba46f
+[08May2025 22:53:06.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTomiokiii joined the game
+[08May2025 22:53:20.961] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:53:21.663] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:53:21.664] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 22:53:35.051] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:53:35.051] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 26.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 13.0 Damage not ignoring armor: 13.0 Reduced Damage: 13.0 Result Damage: 26.0
+[08May2025 22:54:06.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> donde wea andas XD
+[08May2025 22:54:14.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> minando hierro XDD
+[08May2025 22:54:23.388] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:54:35.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> ahh ya
+[08May2025 22:55:08.354] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:55:08.354] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 27.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 13.5 Damage not ignoring armor: 13.5 Reduced Damage: 13.5 Result Damage: 27.0
+[08May2025 22:55:14.757] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:55:14.757] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 24.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 12.0 Damage not ignoring armor: 12.0 Reduced Damage: 12.0 Result Damage: 24.0
+[08May2025 22:55:17.803] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:55:17.804] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 22.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 11.0 Damage not ignoring armor: 11.0 Reduced Damage: 11.0 Result Damage: 22.0
+[08May2025 22:55:20.303] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:55:20.303] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 18.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 9.0 Damage not ignoring armor: 9.0 Reduced Damage: 9.0 Result Damage: 18.0
+[08May2025 22:55:23.202] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:55:23.202] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 19.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 9.5 Damage not ignoring armor: 9.5 Reduced Damage: 9.5 Result Damage: 19.0
+[08May2025 22:55:25.852] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:55:25.852] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 24.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 12.0 Damage not ignoring armor: 12.0 Reduced Damage: 12.0 Result Damage: 24.0
+[08May2025 22:55:28.462] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:55:28.462] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 26.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 13.0 Damage not ignoring armor: 13.0 Reduced Damage: 13.0 Result Damage: 26.0
+[08May2025 22:55:31.305] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:55:31.305] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 19.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 9.5 Damage not ignoring armor: 9.5 Reduced Damage: 9.5 Result Damage: 19.0
+[08May2025 22:55:36.456] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:55:36.456] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 25.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 12.5 Damage not ignoring armor: 12.5 Reduced Damage: 12.5 Result Damage: 25.0
+[08May2025 22:55:39.357] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:55:39.357] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 23.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 11.5 Damage not ignoring armor: 11.5 Reduced Damage: 11.5 Result Damage: 23.0
+[08May2025 22:55:42.505] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:55:42.506] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 18.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 9.0 Damage not ignoring armor: 9.0 Reduced Damage: 9.0 Result Damage: 18.0
+[08May2025 22:55:45.610] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:55:45.610] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 23.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 11.5 Damage not ignoring armor: 11.5 Reduced Damage: 11.5 Result Damage: 23.0
+[08May2025 22:55:48.552] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:55:48.552] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 25.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 12.5 Damage not ignoring armor: 12.5 Reduced Damage: 12.5 Result Damage: 25.0
+[08May2025 22:56:18.356] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:56:18.356] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 23.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 11.5 Damage not ignoring armor: 11.5 Reduced Damage: 11.5 Result Damage: 23.0
+[08May2025 22:56:20.604] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:56:20.605] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 23.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 11.5 Damage not ignoring armor: 11.5 Reduced Damage: 11.316 Result Damage: 22.816
+[08May2025 22:56:25.556] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:56:25.557] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 24.0 Armor value: 11.0 Damage ignoring armor (50.0% damage): 12.0 Damage not ignoring armor: 12.0 Reduced Damage: 9.6 Result Damage: 21.6
+[08May2025 22:56:28.105] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:56:28.105] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 23.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 11.5 Damage not ignoring armor: 11.5 Reduced Damage: 11.316 Result Damage: 22.816
+[08May2025 22:56:28.708] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:56:43.058] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:56:43.058] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 21.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 10.5 Damage not ignoring armor: 10.5 Reduced Damage: 10.5 Result Damage: 21.0
+[08May2025 22:56:45.757] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:56:45.757] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 26.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 13.0 Damage not ignoring armor: 13.0 Reduced Damage: 13.0 Result Damage: 26.0
+[08May2025 22:56:48.151] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:56:48.151] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 28.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 14.0 Damage not ignoring armor: 14.0 Reduced Damage: 14.0 Result Damage: 28.0
+[08May2025 22:56:50.408] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:56:50.408] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 25.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 12.5 Damage not ignoring armor: 12.5 Reduced Damage: 12.5 Result Damage: 25.0
+[08May2025 22:56:52.855] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:56:52.855] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 19.0 Armor value: 11.0 Damage ignoring armor (50.0% damage): 9.5 Damage not ignoring armor: 9.5 Reduced Damage: 7.125 Result Damage: 16.625
+[08May2025 22:56:55.206] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:56:55.206] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 19.0 Armor value: 11.0 Damage ignoring armor (50.0% damage): 9.5 Damage not ignoring armor: 9.5 Reduced Damage: 7.125 Result Damage: 16.625
+[08May2025 22:57:13.017] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 22:58:05.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[08May2025 22:58:05.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[08May2025 22:58:06.754] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:58:06.754] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 28.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 14.0 Damage not ignoring armor: 14.0 Reduced Damage: 14.0 Result Damage: 28.0
+[08May2025 22:58:10.054] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:58:10.054] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 23.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 11.5 Damage not ignoring armor: 11.5 Reduced Damage: 11.5 Result Damage: 23.0
+[08May2025 22:58:24.602] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:58:24.602] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 21.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 10.5 Damage not ignoring armor: 10.5 Reduced Damage: 10.5 Result Damage: 21.0
+[08May2025 22:58:27.356] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:58:27.356] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 19.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 9.5 Damage not ignoring armor: 9.5 Reduced Damage: 9.5 Result Damage: 19.0
+[08May2025 22:58:29.652] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:58:29.652] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 25.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 12.5 Damage not ignoring armor: 12.5 Reduced Damage: 12.5 Result Damage: 25.0
+[08May2025 22:58:32.104] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:58:32.104] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 23.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 11.5 Damage not ignoring armor: 11.5 Reduced Damage: 11.5 Result Damage: 23.0
+[08May2025 22:58:34.157] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:58:34.157] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 25.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 12.5 Damage not ignoring armor: 12.5 Reduced Damage: 12.3 Result Damage: 24.8
+[08May2025 22:58:36.905] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:58:36.905] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 19.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 9.5 Damage not ignoring armor: 9.5 Reduced Damage: 9.348001 Result Damage: 18.848
+[08May2025 22:58:39.116] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:59:27.505] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:59:27.505] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 18.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 9.0 Damage not ignoring armor: 9.0 Reduced Damage: 8.856 Result Damage: 17.855999
+[08May2025 22:59:30.068] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 22:59:30.069] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 22:59:51.156] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:59:51.156] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 19.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 9.5 Damage not ignoring armor: 9.5 Reduced Damage: 9.348001 Result Damage: 18.848
+[08May2025 22:59:53.754] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 22:59:53.754] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 23.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 11.5 Damage not ignoring armor: 11.5 Reduced Damage: 11.316 Result Damage: 22.816
