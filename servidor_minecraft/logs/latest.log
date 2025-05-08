@@ -236,3 +236,15 @@
 [08May2025 05:17:41.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -19.36737877707378,0.0,-28.37470914594587
 [08May2025 05:17:41.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -20.209438723903077,0.0,-29.608392152291344
 [08May2025 05:19:12.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=73, z=141} BlockPos{x=-177, y=71, z=140}
+[08May2025 05:45:39.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved wrongly! 0.5371841896695457
+[08May2025 05:45:39.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved wrongly! 1.2912169048520354
+[08May2025 05:45:39.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved wrongly! 2.071536772570397
+[08May2025 05:45:39.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved wrongly! 2.8724515572969835
+[08May2025 05:45:39.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved wrongly! 3.6898215056602623
+[08May2025 05:45:39.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved wrongly! 0.44399689427365274
+[08May2025 05:45:39.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved wrongly! 0.44399689427365274
+[08May2025 05:45:39.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved wrongly! 0.44399689427365274
+[08May2025 05:45:39.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved wrongly! 0.44399689427365274
+[08May2025 05:48:17.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko has made the advancement [Hot Stuff]
+[08May2025 05:48:25.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> XD
+[08May2025 05:48:29.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> oe mano

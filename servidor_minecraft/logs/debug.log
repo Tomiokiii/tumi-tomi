@@ -2573,3 +2573,23 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08May2025 05:37:22.743] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 20.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 10.0 Damage not ignoring armor: 10.0 Reduced Damage: 10.0 Result Damage: 20.0
 [08May2025 05:39:16.647] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
 [08May2025 05:39:16.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[08May2025 05:44:16.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[08May2025 05:44:16.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[08May2025 05:45:39.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved wrongly! 0.5371841896695457
+[08May2025 05:45:39.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved wrongly! 1.2912169048520354
+[08May2025 05:45:39.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved wrongly! 2.071536772570397
+[08May2025 05:45:39.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved wrongly! 2.8724515572969835
+[08May2025 05:45:39.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved wrongly! 3.6898215056602623
+[08May2025 05:45:39.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved wrongly! 0.44399689427365274
+[08May2025 05:45:39.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved wrongly! 0.44399689427365274
+[08May2025 05:45:39.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved wrongly! 0.44399689427365274
+[08May2025 05:45:39.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved wrongly! 0.44399689427365274
+[08May2025 05:47:35.595] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 05:47:35.595] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 26.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 13.0 Damage not ignoring armor: 13.0 Reduced Damage: 13.0 Result Damage: 26.0
+[08May2025 05:47:59.444] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 05:47:59.444] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 19.0 Armor value: 5.0 Damage ignoring armor (50.0% damage): 9.5 Damage not ignoring armor: 9.5 Reduced Damage: 9.12 Result Damage: 18.619999
+[08May2025 05:48:17.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko has made the advancement [Hot Stuff]
+[08May2025 05:48:25.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> XD
+[08May2025 05:48:29.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> oe mano
+[08May2025 05:49:16.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[08May2025 05:49:16.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
