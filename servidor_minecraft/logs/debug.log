@@ -4518,3 +4518,39 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08May2025 22:59:51.156] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 19.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 9.5 Damage not ignoring armor: 9.5 Reduced Damage: 9.348001 Result Damage: 18.848
 [08May2025 22:59:53.754] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
 [08May2025 22:59:53.754] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 23.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 11.5 Damage not ignoring armor: 11.5 Reduced Damage: 11.316 Result Damage: 22.816
+[08May2025 23:03:05.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[08May2025 23:03:05.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[08May2025 23:05:57.803] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 23:05:57.803] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 19.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 9.5 Damage not ignoring armor: 9.5 Reduced Damage: 9.5 Result Damage: 19.0
+[08May2025 23:06:06.906] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 23:06:06.906] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 27.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 13.5 Damage not ignoring armor: 13.5 Reduced Damage: 13.5 Result Damage: 27.0
+[08May2025 23:06:22.553] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 23:06:22.553] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 21.0 Armor value: 3.0 Damage ignoring armor (50.0% damage): 10.5 Damage not ignoring armor: 10.5 Reduced Damage: 10.248 Result Damage: 20.748001
+[08May2025 23:06:25.057] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 23:06:25.057] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 19.0 Armor value: 3.0 Damage ignoring armor (50.0% damage): 9.5 Damage not ignoring armor: 9.5 Reduced Damage: 9.272 Result Damage: 18.772
+[08May2025 23:06:27.603] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 23:06:27.603] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 24.0 Armor value: 3.0 Damage ignoring armor (50.0% damage): 12.0 Damage not ignoring armor: 12.0 Reduced Damage: 11.712 Result Damage: 23.712
+[08May2025 23:06:27.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko has made the advancement [Sea? Not a Problem]
+[08May2025 23:07:18.452] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 23:07:18.452] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 19.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 9.5 Damage not ignoring armor: 9.5 Reduced Damage: 9.5 Result Damage: 19.0
+[08May2025 23:07:21.559] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 23:07:21.559] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 20.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 10.0 Damage not ignoring armor: 10.0 Reduced Damage: 10.0 Result Damage: 20.0
+[08May2025 23:07:37.206] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 23:07:37.206] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 28.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 14.0 Damage not ignoring armor: 14.0 Reduced Damage: 14.0 Result Damage: 28.0
+[08May2025 23:08:05.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[08May2025 23:08:05.524] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[08May2025 23:08:54.970] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:09:02.074] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:09:05.019] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:09:05.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko has made the advancement [Who You Gonna Call?]
+[08May2025 23:09:18.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> oe
+[08May2025 23:09:23.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> que paso
+[08May2025 23:09:28.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> te imaginas si hubieras hecho este server hardcore?
+[08May2025 23:09:38.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> XDDD
+[08May2025 23:09:43.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> ni el primer dia durabamos
+[08May2025 23:09:48.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> XDD
+[08May2025 23:10:08.499] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 23:10:08.499] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 26.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 13.0 Damage not ignoring armor: 13.0 Reduced Damage: 13.0 Result Damage: 26.0
+[08May2025 23:10:51.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> te gastaste los diamantes ?
+[08May2025 23:10:58.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> no
+[08May2025 23:11:07.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> ya los vi XD
