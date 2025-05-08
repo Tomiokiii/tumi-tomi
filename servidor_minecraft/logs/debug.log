@@ -2768,3 +2768,17 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08May2025 00:26:02.214] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 25.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 12.5 Damage not ignoring armor: 12.5 Reduced Damage: 12.5 Result Damage: 25.0
 [08May2025 00:26:05.462] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
 [08May2025 00:26:05.462] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 20.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 10.0 Damage not ignoring armor: 10.0 Reduced Damage: 9.84 Result Damage: 19.84
+[08May2025 00:26:11.765] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08May2025 00:26:11.765] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 26.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 13.0 Damage not ignoring armor: 13.0 Reduced Damage: 13.0 Result Damage: 26.0
+[08May2025 00:26:13.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[08May2025 00:26:13.508] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[08May2025 00:26:14.149] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 00:26:47.302] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 00:26:48.753] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 00:26:49.601] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 00:26:50.303] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 00:26:50.303] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 00:31:13.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[08May2025 00:31:13.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[08May2025 00:36:13.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[08May2025 00:36:13.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
