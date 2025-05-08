@@ -29,8 +29,12 @@
       "minecraft:taiga": "2025-05-04 04:03:26 +0000",
       "minecraft:frozen_river": "2025-05-04 03:29:23 +0000",
       "minecraft:sunflower_plains": "2025-05-08 03:42:56 +0000",
+      "minecraft:cherry_grove": "2025-05-08 17:51:18 +0000",
+      "minecraft:birch_forest": "2025-05-08 17:37:42 +0000",
       "minecraft:windswept_hills": "2025-05-08 03:36:07 +0000",
+      "minecraft:savanna_plateau": "2025-05-08 17:52:16 +0000",
       "minecraft:beach": "2025-05-04 01:22:41 +0000",
+      "minecraft:dark_forest": "2025-05-08 17:38:50 +0000",
       "minecraft:river": "2025-05-04 00:53:16 +0000",
       "minecraft:snowy_plains": "2025-05-04 00:36:09 +0000",
       "minecraft:stony_shore": "2025-05-07 02:29:59 +0000",
@@ -48,8 +52,10 @@
       "minecraft:windswept_savanna": "2025-05-08 03:40:02 +0000",
       "minecraft:flower_forest": "2025-05-08 03:43:08 +0000",
       "minecraft:frozen_peaks": "2025-05-04 05:35:26 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-08 17:38:06 +0000",
       "minecraft:meadow": "2025-05-04 00:34:26 +0000",
       "minecraft:windswept_gravelly_hills": "2025-05-08 03:52:39 +0000",
+      "minecraft:savanna": "2025-05-08 17:52:38 +0000",
       "minecraft:plains": "2025-05-04 00:34:15 +0000"
     },
     "done": false
@@ -5138,6 +5144,54 @@
   "iceandfire:recipes/combat/tide_red_helmet": {
     "criteria": {
       "has_item": "2025-05-08 03:31:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:katana": {
+    "criteria": {
+      "has_katana": "2025-05-08 17:36:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-05-08 17:50:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-08 17:50:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-05-08 17:50:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-05-08 17:50:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-05-08 17:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-05-08 17:51:45 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-05-08 17:56:39 +0000"
     },
     "done": true
   },
