@@ -12251,3 +12251,624 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09May2025 02:26:04.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -10.11515193749733,0.0,-11.83058484315552
 [09May2025 02:26:04.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -8.723981515947571,0.0,-10.095947425482791
 [09May2025 02:26:19.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> por aqui se me hace que habia uno
+[09May2025 02:26:24.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> monarca
+[09May2025 02:26:45.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> me esperas unos minutos ?
+[09May2025 02:26:46.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> XD
+[09May2025 02:26:47.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> si
+[09May2025 02:27:03.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> pero a ese ya no lo matamos ?
+[09May2025 02:27:05.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> o es otro
+[09May2025 02:27:13.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> es otro
+[09May2025 02:27:51.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.625986408110748,0.0,-11.111194778938625
+[09May2025 02:27:51.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.751183011311241,0.0,-13.333433773181241
+[09May2025 02:27:51.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.8763794479182252,0.0,-15.555672776866686
+[09May2025 02:27:51.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -1.0015757375895191,0.0,-17.77791178888083
+[09May2025 02:27:51.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -1.1267718976637298,0.0,-20.00015080824096
+[09May2025 02:27:51.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -1.251967943433101,0.0,-22.22238983408033
+[09May2025 02:27:51.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -1.377163888385894,0.0,-24.44462886563406
+[09May2025 02:27:51.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -1.5023597444182997,0.0,-26.666867902228205
+[09May2025 02:27:51.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -1.6275555220229307,0.0,-28.88910694326796
+[09May2025 02:27:51.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -1.2519616144254542,0.0,-22.22239019282597
+[09May2025 02:27:51.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -1.3771572618459231,0.0,-24.44462924124491
+[09May2025 02:27:51.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -1.5023528554547738,0.0,-26.666868292713843
+[09May2025 02:27:51.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -1.6275484016018709,0.0,-28.88910734687306
+[09May2025 02:27:52.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -1.7527439058876553,0.0,-31.11134640340515
+[09May2025 02:27:52.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -1.8779393732518201,0.0,-33.33358546202999
+[09May2025 02:27:52.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -2.0031348080510725,0.0,-35.55582452250064
+[09May2025 02:27:52.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -2.1283302141280274,0.0,-37.778063584599295
+[09May2025 02:27:52.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -2.2539278242331875,0.0,-40.00027966723337
+[09May2025 02:27:52.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -2.3798801782911596,0.0,-42.22247548197902
+[09May2025 02:27:52.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -2.5061454165154373,0.0,-44.444653420447594
+[09May2025 02:27:52.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -2.6322843892132823,0.0,-46.66683857294038
+[09May2025 02:27:52.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -2.7538350651750534,0.0,-48.889243992173306
+[09May2025 02:27:52.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -2.8647189646051174,0.0,-51.11201984748641
+[09May2025 02:27:52.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -2.9643818901583927,0.0,-53.335141557300176
+[09May2025 02:27:52.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -3.0539716587074963,0.0,-55.558569500530666
+[09May2025 02:27:52.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -3.1344754641222607,0.0,-57.782268762690364
+[09May2025 02:27:52.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -3.208123706949209,0.0,-60.006198217189194
+[09May2025 02:27:52.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -3.2784948373589486,0.0,-62.23028821484286
+[09May2025 02:27:52.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -3.3485430993823684,0.0,-64.45445431286089
+[09May2025 02:27:52.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -3.41918744840018,0.0,-66.67865927491084
+[09May2025 02:27:52.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -3.490936341385577,0.0,-68.90287833630373
+[09May2025 02:27:52.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -3.56451496704085,0.0,-71.12707766318636
+[09May2025 02:27:52.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -3.64056283221953,0.0,-73.35122462758864
+[09May2025 02:27:53.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -3.7191659189591064,0.0,-75.57530909622665
+[09May2025 02:27:53.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -3.800123334743148,0.0,-77.79933401335848
+[09May2025 02:27:53.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -3.8830566451165396,0.0,-80.02331083630406
+[09May2025 02:27:53.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -3.9661979885149776,0.0,-82.24730818718172
+[09May2025 02:27:53.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -4.048012937221301,0.0,-84.47137679094203
+[09May2025 02:27:53.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -4.128355994035019,0.0,-86.69551782033841
+[09May2025 02:27:53.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -4.2074008421998315,0.0,-88.91972272914563
+[09May2025 02:27:53.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -4.285300670336028,0.0,-91.14398397959349
+[09May2025 02:27:53.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -4.362190590807131,0.0,-93.36829492336847
+[09May2025 02:27:53.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -4.438189772717578,0.0,-95.59264969665765
+[09May2025 02:27:53.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -4.513403323217517,0.0,-97.81704312757847
+[09May2025 02:27:53.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -4.587923946813362,0.0,-100.04147065453071
+[09May2025 02:27:53.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -4.661833408879829,0.0,-102.2659282541822
+[09May2025 02:27:53.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -4.7352038264773455,0.0,-104.49041237795473
+[09May2025 02:27:53.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -4.808098806853195,0.0,-106.7149198960019
+[09May2025 02:27:53.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -4.880574451599614,0.0,-108.93944804779949
+[09May2025 02:27:53.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -4.9526802423208665,0.0,-111.16399439856468
+[09May2025 02:27:53.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -5.024459821792107,0.0,-113.38855680081952
+[09May2025 02:27:53.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -5.095951682940495,0.0,-115.61313336048806
+[09May2025 02:27:53.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -5.167189776528403,0.0,-117.83772240699545
+[09May2025 02:27:54.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -5.238204047127738,0.0,-120.06232246689478
+[09May2025 02:27:54.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -5.309020905851412,0.0,-122.28693224060589
+[09May2025 02:27:54.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -5.379663647300504,0.0,-124.51155058189897
+[09May2025 02:27:54.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -5.450152817313665,0.0,-126.73617647979927
+[09May2025 02:27:54.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -5.520506537320216,0.0,-128.9608090426268
+[09May2025 02:27:54.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -5.590740790420796,0.0,-131.1854474839206
+[09May2025 02:27:54.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -5.660869673710522,0.0,-133.41009111002177
+[09May2025 02:27:54.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -5.7309056208268885,0.0,-135.63473930912278
+[09May2025 02:27:54.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -5.800859598238503,0.0,-137.8593915416095
+[09May2025 02:27:54.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -5.87074127837036,0.0,-140.08404733154248
+[09May2025 02:27:54.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -5.9405591923016345,0.0,-142.3087062591435
+[09May2025 02:28:08.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.34670644220318536,0.0,-11.12341187595166
+[09May2025 02:28:08.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.4160477306959365,0.0,-13.348094252812643
+[09May2025 02:28:08.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.4853890192014205,0.0,-15.572776630083808
+[09May2025 02:28:09.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 1.4561670596556269,0.0,46.71832995607315
+[09May2025 02:28:09.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 1.4561670596556269,0.0,46.71832995607315
+[09May2025 02:28:09.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 1.4561670596556269,0.0,46.71832995607315
+[09May2025 02:28:09.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 1.4561418915177455,0.0,46.71833073876792
+[09May2025 02:28:09.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 1.3867784046267388,0.0,44.49364904901631
+[09May2025 02:28:10.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 1.317417537133906,0.0,42.26896727777557
+[09May2025 02:28:10.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 1.2480589799502013,0.0,40.04428543466156
+[09May2025 02:28:10.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 1.1787024604593626,0.0,37.819603528155085
+[09May2025 02:28:10.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 1.1093477382135006,0.0,35.59492156573651
+[09May2025 02:28:10.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 1.0399946011377779,0.0,33.37023955400355
+[09May2025 02:28:10.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 0.9706428621821033,0.0,31.14555749877536
+[09May2025 02:28:10.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 0.9012923563682307,0.0,28.920875405184233
+[09May2025 02:28:10.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 0.8319429381854206,0.0,26.696193277756947
+[09May2025 02:28:10.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 0.7625944792932842,0.0,24.47151112048641
+[09May2025 02:28:10.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 0.6932468664954285,0.0,22.246828936893962
+[09May2025 02:28:10.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 0.623899999952755,0.0,20.022146730085524
+[09May2025 02:28:10.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 0.5545537916073044,0.0,17.79746450280072
+[09May2025 02:28:28.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTumiko was kicked for floating too long!
+[09May2025 02:28:28.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTumiko lost connection: Flying is not enabled on this server
+[09May2025 02:28:28.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko left the game
+[09May2025 02:28:36.025] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 29 messages to dispatch.
+[09May2025 02:28:36.533] [User Authenticator #26/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ElTumiko is dfba9348-ff93-4881-868c-fb005f2c5312
+[09May2025 02:28:36.548] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[09May2025 02:28:36.599] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[09May2025 02:28:36.648] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[09May2025 02:28:36.697] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[09May2025 02:28:36.747] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[09May2025 02:28:36.799] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[09May2025 02:28:36.848] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, mowziesmobs, terrablender, eyesoficeandfire, geckolib, playeranimator, creativecore, jei, supermartijn642corelib, portablemobs, kotlinforforge, spartantoolkit, spartanshields, patchouli, journeymap, citadel, naturescompass, spartanfire, mixinextras, badmobs, spartanweaponry, architectury, mca, iceandfire, deep_dark_regrowth, carryon, cloth_config, forge, twilightforest, quarkdelight, darkmodeeverywhere]
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'deep_dark_regrowth:deep_dark_regrowth' : Version test of '1' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:version' : Version test of '1' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldinfo:world_id' : Version test of '1' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_req' : Version test of '1' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:waypoint' : Version test of '1' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:mp_options_req' : Version test of '1' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanshields:network' : Version test of '1' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mca:main' : Version test of '1' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'naturescompass:naturescompass' : Version test of '1.0' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:player_loc' : Version test of '1' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_save' : Version test of '1' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:teleport_req' : Version test of '1' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'quarkdelight:quarkdelight' : Version test of '1' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:common' : Version test of '1' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanweaponry:network' : Version test of '1' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:perm_req' : Version test of '1' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'twilightforest:channel' : Version test of '2' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[09May2025 02:28:36.857] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[09May2025 02:28:36.891] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[09May2025 02:28:36.891] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:36.891] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:36.897] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:tiny_bird_variant' to 'fml:handshake' sequence 7
+[09May2025 02:28:36.938] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[09May2025 02:28:36.938] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:36.938] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:36.949] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 8
+[09May2025 02:28:36.997] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 9
+[09May2025 02:28:37.048] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 10
+[09May2025 02:28:37.096] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 11
+[09May2025 02:28:37.149] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 12
+[09May2025 02:28:37.197] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 13
+[09May2025 02:28:37.246] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 14
+[09May2025 02:28:37.297] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:oil_effects' to 'fml:handshake' sequence 15
+[09May2025 02:28:37.346] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 16
+[09May2025 02:28:37.395] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:weapon_traits' to 'fml:handshake' sequence 17
+[09May2025 02:28:37.446] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 18
+[09May2025 02:28:37.496] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 19
+[09May2025 02:28:37.546] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:enforcement' to 'fml:handshake' sequence 20
+[09May2025 02:28:37.596] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 21
+[09May2025 02:28:37.646] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:dwarf_rabbit_variant' to 'fml:handshake' sequence 22
+[09May2025 02:28:37.703] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 23
+[09May2025 02:28:37.746] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 24
+[09May2025 02:28:37.797] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 25
+[09May2025 02:28:37.846] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 26
+[09May2025 02:28:37.898] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 27
+[09May2025 02:28:37.946] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 28
+[09May2025 02:28:38.672] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[09May2025 02:28:38.672] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:38.672] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:38.795] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[09May2025 02:28:38.795] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:38.795] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:38.795] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[09May2025 02:28:38.795] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:38.795] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:38.795] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[09May2025 02:28:38.795] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:38.795] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:40.639] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[09May2025 02:28:40.639] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:40.639] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:40.688] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[09May2025 02:28:40.688] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:40.688] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:40.689] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[09May2025 02:28:40.689] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:40.689] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:40.689] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[09May2025 02:28:40.689] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:40.689] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:40.689] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[09May2025 02:28:40.689] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:40.689] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:40.689] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[09May2025 02:28:40.689] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:40.689] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:41.405] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[09May2025 02:28:41.405] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:41.405] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:41.405] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[09May2025 02:28:41.405] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:41.405] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:41.405] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[09May2025 02:28:41.405] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:41.405] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:41.405] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[09May2025 02:28:41.405] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:41.405] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:41.477] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[09May2025 02:28:41.477] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:41.477] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:41.477] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[09May2025 02:28:41.477] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:41.477] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:41.477] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[09May2025 02:28:41.477] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:41.477] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:41.477] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[09May2025 02:28:41.477] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:41.477] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:41.477] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[09May2025 02:28:41.477] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:41.477] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:41.477] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[09May2025 02:28:41.477] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:41.477] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:41.477] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[09May2025 02:28:41.477] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:41.477] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:42.728] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[09May2025 02:28:42.728] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:42.728] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:42.728] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[09May2025 02:28:42.728] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:42.728] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:42.729] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[09May2025 02:28:42.729] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:42.729] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:42.729] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[09May2025 02:28:42.729] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:28:42.729] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:28:42.748] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[09May2025 02:28:42.809] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElTumiko[/127.110.76.174:54969] logged in with entity id 158706 at (-1782.26806640625, 101.09031367301941, 1245.21044921875)
+[09May2025 02:28:42.809] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@48194d5f into net.minecraft.network.Connection@5f4f6eb5
+[09May2025 02:28:42.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko joined the game
+[09May2025 02:28:56.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> XD
+[09May2025 02:29:00.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> lag
+[09May2025 02:29:05.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> ya
+[09May2025 02:29:42.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.7015954796497681,0.0,11.106674638945378
+[09May2025 02:29:42.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.8419145584107355,0.0,13.328009705337081
+[09May2025 02:29:43.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[09May2025 02:29:43.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[09May2025 02:29:50.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.7015952151618876,0.0,11.10667677413403
+[09May2025 02:29:50.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.8419142581942651,0.0,13.328012128960836
+[09May2025 02:29:52.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -5.2561942428951625,0.0,-121.04871000075877
+[09May2025 02:29:52.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -5.2561942428951625,0.0,-121.04871000075877
+[09May2025 02:29:53.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -5.329160017726508,0.0,-121.04276146314783
+[09May2025 02:29:53.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -4.884119837742219,0.0,-118.8752276697137
+[09May2025 02:29:53.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -4.387353103274563,0.0,-116.72240537778953
+[09May2025 02:29:53.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -3.836593192952705,0.0,-114.58635409503859
+[09May2025 02:29:53.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -3.219226831011383,0.0,-112.47507620842089
+[09May2025 02:29:53.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -2.531211256732149,0.0,-110.39297020663753
+[09May2025 02:29:53.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -1.7796831234850288,0.0,-108.33738138842273
+[09May2025 02:29:53.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.9721369132282689,0.0,-106.30518072611562
+[09May2025 02:29:53.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.1151827590490484,0.0,-104.29360841731909
+[09May2025 02:29:53.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 0.7853492016697601,0.0,-102.3002303163189
+[09May2025 02:29:53.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 1.7243167877566066,0.0,-100.32289950659492
+[09May2025 02:29:53.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 2.697184595417866,0.0,-98.35972240777664
+[09May2025 02:29:53.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 3.699952398508003,0.0,-96.40902888197729
+[09May2025 02:29:53.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 4.729091997566229,0.0,-94.46934586758039
+[09May2025 02:29:53.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 5.780038385709531,0.0,-92.53842157529402
+[09May2025 02:29:53.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 6.832465177606537,0.0,-90.60463883180273
+[09May2025 02:29:53.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 7.853676024289143,0.0,-88.65341693266919
+[09May2025 02:29:53.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 8.845113338961028,0.0,-86.68597689916305
+[09May2025 02:29:53.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 9.810290398399502,0.0,-84.70423247114036
+[09May2025 02:29:53.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 10.75230591272225,0.0,-82.7098715671541
+[09May2025 02:29:54.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 11.673892944252884,0.0,-80.70438293136795
+[09May2025 02:29:54.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 12.577462053960744,0.0,-78.68907963613424
+[09May2025 02:29:54.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 13.465139356620966,0.0,-76.66511981126791
+[09May2025 02:29:54.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 14.33880008546521,0.0,-74.6335249272654
+[09May2025 02:29:54.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 15.199909128199806,0.0,-72.59512638352908
+[09May2025 02:29:54.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 16.047793218260267,0.0,-70.54994628746181
+[09May2025 02:29:54.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 16.882113390848417,0.0,-68.49811404849083
+[09May2025 02:29:54.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 17.703470902576555,0.0,-66.4400682778919
+[09May2025 02:29:54.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 18.51203696171956,0.0,-64.376078578121
+[09May2025 02:29:54.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 19.308963065026546,0.0,-62.306725573509084
+[09May2025 02:29:54.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 20.095622727286354,0.0,-60.2326421340274
+[09May2025 02:29:54.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 20.87322738854232,0.0,-58.15438645099039
+[09May2025 02:29:54.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 21.642845538913207,0.0,-56.072450849137795
+[09May2025 02:29:54.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 22.405419586683138,0.0,-53.98726955888992
+[09May2025 02:29:54.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 23.161780735959155,0.0,-51.899225571477245
+[09May2025 02:29:54.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 23.91266210876347,0.0,-49.80865668516526
+[09May2025 02:29:54.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 24.65871031871984,0.0,-47.71586083802413
+[09May2025 02:29:54.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 25.400495679044298,0.0,-45.62110081143169
+[09May2025 02:29:54.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 26.138521205993584,0.0,-43.524608378563016
+[09May2025 02:29:55.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 26.873230559905778,0.0,-41.426587963359
+[09May2025 02:29:55.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 27.60501504919921,0.0,-39.32721986773504
+[09May2025 02:29:55.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 28.33421980789899,0.0,-37.226663117980706
+[09May2025 02:29:55.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 29.06114924421513,0.0,-35.125057975283426
+[09May2025 02:29:55.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 29.78607184618886,0.0,-33.02252815001043
+[09May2025 02:29:55.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 30.50922442027263,0.0,-30.919182754705616
+[09May2025 02:29:55.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 31.230815829757603,0.0,-28.815118026632717
+[09May2025 02:29:55.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 31.951030292066207,0.0,-26.710418847058463
+[09May2025 02:29:55.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 32.67003028696536,0.0,-24.60516008126001
+[09May2025 02:29:55.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 33.387959121609356,0.0,-22.499407760411714
+[09May2025 02:29:55.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 34.104943192908195,0.0,-20.39322012400953
+[09May2025 02:29:55.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 34.82109398293687,0.0,-18.286648539288763
+[09May2025 02:29:55.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 35.53650981888495,0.0,-16.17973831215113
+[09May2025 02:29:55.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 36.25127742533414,0.0,-14.072529402401642
+[09May2025 02:29:55.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 36.96547329336522,0.0,-11.96505705458867
+[09May2025 02:29:55.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 37.6791648881117,0.0,-9.857352354403702
+[09May2025 02:29:55.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 38.39241171382105,0.0,-7.749442719426497
+[09May2025 02:29:55.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 39.105266253239506,0.0,-5.6413523319627075
+[09May2025 02:29:55.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 39.817774796149706,0.0,-3.5331025208056417
+[09May2025 02:29:55.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 40.52997817013943,0.0,-1.4247120979509873
+[09May2025 02:29:56.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 41.24191238514118,0.0,0.6838023444206556
+[09May2025 02:29:56.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 41.9536092019157,0.0,2.7924261720065715
+[09May2025 02:29:56.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 42.66509663345391,0.0,4.901146477351176
+[09May2025 02:29:56.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 43.376399387213496,0.0,7.009951876079185
+[09May2025 02:29:56.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 44.08753925517226,0.0,9.118832327171276
+[09May2025 02:29:56.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 44.798535457854996,0.0,11.227778974448483
+[09May2025 02:29:56.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 45.5094049477641,0.0,13.336784006761036
+[09May2025 02:29:56.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 46.22016267700678,0.0,15.445840534674744
+[09May2025 02:29:56.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 46.930821833341724,0.0,17.554942481708622
+[09May2025 02:29:56.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 47.64139404837215,0.0,19.664084488406388
+[09May2025 02:29:56.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 48.35188958117192,0.0,21.773261827727765
+[09May2025 02:29:56.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 49.062317480244246,0.0,23.882470330423303
+[09May2025 02:29:56.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 49.77268572636899,0.0,25.9917063192147
+[09May2025 02:29:56.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 50.48300135859404,0.0,28.10096655074267
+[09May2025 02:29:56.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 51.193270585359414,0.0,30.21024816436443
+[09May2025 02:29:56.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 51.90349888250944,0.0,32.31954863699275
+[09May2025 02:29:56.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 52.6136910797386,0.0,34.42886574326485
+[09May2025 02:29:56.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 53.323851436837685,0.0,36.538197520410904
+[09May2025 02:29:56.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 54.03398371094204,0.0,38.64754223726777
+[09May2025 02:29:56.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 54.744091215845174,0.0,40.7568983669496
+[09May2025 02:29:56.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 55.45417687431268,0.0,42.8662645627428
+[09May2025 02:29:57.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 56.16424326422384,0.0,44.97563963684638
+[09May2025 02:29:57.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 56.874292659268576,0.0,47.085022541619765
+[09May2025 02:29:57.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 57.58432706484086,0.0,49.194412353043845
+[09May2025 02:29:57.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 58.29434824969849,0.0,51.303808256133834
+[09May2025 02:29:57.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 59.004357773885886,0.0,53.413209532073324
+[09May2025 02:29:57.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 59.71435701336213,0.0,55.522615546865836
+[09May2025 02:29:57.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 60.42434718172308,0.0,57.63202574132697
+[09May2025 02:29:57.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 61.13432934936054,0.0,59.74143962225571
+[09May2025 02:29:57.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 61.84430446035958,0.0,61.8508567546487
+[09May2025 02:29:57.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 62.55427334740375,0.0,63.96027675483356
+[09May2025 02:29:57.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 63.26423674491957,0.0,66.06969928441049
+[09May2025 02:29:57.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 63.974195300671454,0.0,68.17912404491108
+[09May2025 02:29:57.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 64.6841495859876,0.0,70.28855077308663
+[09May2025 02:29:57.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 65.39410010477945,0.0,72.39797923675178
+[09May2025 02:29:57.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 66.10404730149685,0.0,74.50740923111834
+[09May2025 02:29:57.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 66.8139915681445,0.0,76.6168405755634
+[09May2025 02:29:57.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 67.52393325047069,0.0,78.72627311077804
+[09May2025 02:29:57.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 68.23387265342535,0.0,80.83570669625124
+[09May2025 02:29:57.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 68.94381004597426,0.0,82.94514120805252
+[09May2025 02:29:57.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 69.65374566534524,0.0,85.05457653687563
+[09May2025 02:29:58.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 70.36367972077346,0.0,87.1640125863114
+[09May2025 02:29:58.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 71.07361239680404,0.0,89.27344927132754
+[09May2025 02:29:58.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 71.78354385620605,0.0,91.38288651692574
+[09May2025 02:29:58.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 72.49347424254165,0.0,93.49232425695755
+[09May2025 02:29:58.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 73.20340368243251,0.0,95.60176243307978
+[09May2025 02:29:58.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 73.91333228755911,0.0,97.71120099383324
+[09May2025 02:29:58.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 74.62326015642384,0.0,99.82063989383187
+[09May2025 02:29:58.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 75.33318737590548,0.0,101.9300790930447
+[09May2025 02:29:58.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 76.04311402263124,0.0,104.03951855616424
+[09May2025 02:29:58.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 76.75304016418636,0.0,106.14895825204985
+[09May2025 02:30:03.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 3.5496118285943794,0.0,10.547207178326971
+[09May2025 02:30:03.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 4.259534194280604,0.0,12.656648614007281
+[09May2025 02:30:03.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 4.969456559958871,0.0,14.766090049691229
+[09May2025 02:30:03.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 5.67937892563009,0.0,16.875531485378815
+[09May2025 02:30:03.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 6.389301291294942,0.0,18.98497292106913
+[09May2025 02:30:03.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 7.0992236569543365,0.0,21.094414356762172
+[09May2025 02:30:03.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 7.809146022608729,0.0,23.203855792457034
+[09May2025 02:30:03.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 8.51906838825903,0.0,25.31329722815417
+[09May2025 02:30:03.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 6.389301291006404,0.0,18.98497292120237
+[09May2025 02:30:03.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 7.0992236566494284,0.0,21.09441435690269
+[09May2025 02:30:03.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 7.809146022289497,0.0,23.203855792604372
+[09May2025 02:30:03.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 8.5154321221803,0.0,25.314491875095428
+[09May2025 02:30:03.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 9.185954875608331,0.0,27.43436288371413
+[09May2025 02:30:03.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 9.80227209159034,0.0,29.56554219588179
+[09May2025 02:30:03.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 10.36008378691804,0.0,31.70749577139486
+[09May2025 02:30:03.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 10.866092461657445,0.0,33.85896309579175
+[09May2025 02:30:03.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 11.326612023609187,0.0,36.018810698090874
+[09May2025 02:30:03.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 11.747286757274878,0.0,38.186034536227
+[09May2025 02:30:03.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 12.132818352392178,0.0,40.3597642143709
+[09May2025 02:30:03.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 12.487353699310006,0.0,42.53923204340208
+[09May2025 02:30:03.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 12.81495260815882,0.0,44.72373833197889
+[09May2025 02:30:03.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 13.119748787875096,0.0,46.912632435915384
+[09May2025 02:30:03.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 13.405940752389142,0.0,49.10530091230021
+[09May2025 02:30:03.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 13.67677891479184,0.0,51.301226248951025
+[09May2025 02:30:03.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 13.9342759657236,0.0,53.50000990635726
+[09May2025 02:30:04.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 14.180006156338095,0.0,55.701314602669754
+[09May2025 02:30:04.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 14.41535797615279,0.0,57.904842855297375
+[09May2025 02:30:04.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 14.641832348591606,0.0,60.11031248157087
+[09May2025 02:30:04.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 14.860953967487376,0.0,62.317459505375155
+[09May2025 02:30:04.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 15.068269622502157,-0.19140904383303337,64.4512157481513
+[09May2025 02:30:04.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 15.265297948581292,-0.5516408643267994,66.52023184083419
+[09May2025 02:30:04.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 15.45325285053923,-1.0607743738353292,68.5321471211355
+[09May2025 02:30:04.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 15.633276722144728,-1.701239173054887,70.49369402873845
+[09May2025 02:30:04.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 15.812207375566686,-2.266129125966529,72.48564240047654
+[09May2025 02:30:04.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 15.990173810550687,-2.764362064434607,74.50440486358184
+[09May2025 02:30:04.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 16.167289804872325,-3.203803516163447,76.54681735527265
+[09May2025 02:30:04.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 16.3436557105299,-3.5913908765882923,78.61008917217623
+[09May2025 02:30:04.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 16.519360037985734,-3.933242928482997,80.69175891391751
+[09May2025 02:30:04.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 16.694480853467667,-4.234756438254124,82.78965562536541
+[09May2025 02:30:04.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 16.8690870113885,-4.50069135387227,84.90186452409444
+[09May2025 02:30:04.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 17.043239241340643,-4.73524594944746,87.02669677200583
+[09May2025 02:30:04.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 17.216790250933173,-4.942123102744773,89.16267821798738
+[09May2025 02:30:04.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 17.38589212124316,-5.124588751953013,91.30876268737802
+[09May2025 02:30:04.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 17.54284471351798,-5.285523454554692,93.46413246494649
+[09May2025 02:30:04.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 17.68402150219822,-5.427467862249358,95.62779401470698
+[09May2025 02:30:05.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 17.810604192770143,-5.552662829836066,97.79877520067566
+[09May2025 02:30:05.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 17.924314888810613,-5.663084791247542,99.97621230578034
+[09May2025 02:30:46.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> AAAAAAAAAA
+[09May2025 02:31:44.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> estamos
+[09May2025 02:31:58.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTumiko lost connection: Timed out
+[09May2025 02:31:58.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko left the game
+[09May2025 02:32:09.889] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 29 messages to dispatch.
+[09May2025 02:32:10.424] [User Authenticator #27/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ElTumiko is dfba9348-ff93-4881-868c-fb005f2c5312
+[09May2025 02:32:10.447] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[09May2025 02:32:10.495] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[09May2025 02:32:10.547] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[09May2025 02:32:10.595] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[09May2025 02:32:10.646] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[09May2025 02:32:10.697] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, mowziesmobs, terrablender, eyesoficeandfire, geckolib, playeranimator, creativecore, jei, supermartijn642corelib, portablemobs, kotlinforforge, spartantoolkit, spartanshields, patchouli, journeymap, citadel, naturescompass, spartanfire, mixinextras, badmobs, spartanweaponry, architectury, mca, iceandfire, deep_dark_regrowth, carryon, cloth_config, forge, twilightforest, quarkdelight, darkmodeeverywhere]
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'deep_dark_regrowth:deep_dark_regrowth' : Version test of '1' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:version' : Version test of '1' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldinfo:world_id' : Version test of '1' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_req' : Version test of '1' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:waypoint' : Version test of '1' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:mp_options_req' : Version test of '1' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanshields:network' : Version test of '1' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mca:main' : Version test of '1' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'naturescompass:naturescompass' : Version test of '1.0' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:player_loc' : Version test of '1' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_save' : Version test of '1' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:teleport_req' : Version test of '1' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'quarkdelight:quarkdelight' : Version test of '1' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:common' : Version test of '1' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanweaponry:network' : Version test of '1' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:perm_req' : Version test of '1' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'twilightforest:channel' : Version test of '2' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[09May2025 02:32:10.714] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[09May2025 02:32:10.746] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[09May2025 02:32:10.784] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[09May2025 02:32:10.784] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:10.784] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:10.795] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:tiny_bird_variant' to 'fml:handshake' sequence 7
+[09May2025 02:32:10.840] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[09May2025 02:32:10.840] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:10.840] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:10.846] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 8
+[09May2025 02:32:10.896] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 9
+[09May2025 02:32:10.945] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 10
+[09May2025 02:32:10.996] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 11
+[09May2025 02:32:11.046] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 12
+[09May2025 02:32:11.098] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 13
+[09May2025 02:32:11.147] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 14
+[09May2025 02:32:11.197] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:oil_effects' to 'fml:handshake' sequence 15
+[09May2025 02:32:11.247] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 16
+[09May2025 02:32:11.297] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:weapon_traits' to 'fml:handshake' sequence 17
+[09May2025 02:32:11.349] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 18
+[09May2025 02:32:11.398] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 19
+[09May2025 02:32:11.449] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:enforcement' to 'fml:handshake' sequence 20
+[09May2025 02:32:11.497] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 21
+[09May2025 02:32:11.552] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:dwarf_rabbit_variant' to 'fml:handshake' sequence 22
+[09May2025 02:32:11.596] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 23
+[09May2025 02:32:11.646] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 24
+[09May2025 02:32:11.696] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 25
+[09May2025 02:32:11.746] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 26
+[09May2025 02:32:11.800] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 27
+[09May2025 02:32:11.851] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 28
+[09May2025 02:32:12.529] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[09May2025 02:32:12.529] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:12.529] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:12.625] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[09May2025 02:32:12.625] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:12.625] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:12.625] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[09May2025 02:32:12.625] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:12.625] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:12.625] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[09May2025 02:32:12.625] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:12.625] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:14.536] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[09May2025 02:32:14.536] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:14.536] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:14.536] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[09May2025 02:32:14.536] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:14.536] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:14.536] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[09May2025 02:32:14.536] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:14.536] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:14.536] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[09May2025 02:32:14.536] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:14.536] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:14.537] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[09May2025 02:32:14.537] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:14.537] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:14.537] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[09May2025 02:32:14.537] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:14.537] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:15.119] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[09May2025 02:32:15.119] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:15.119] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:15.153] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[09May2025 02:32:15.153] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:15.153] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:15.153] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[09May2025 02:32:15.153] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:15.153] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:15.153] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[09May2025 02:32:15.153] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:15.153] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:15.251] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[09May2025 02:32:15.251] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:15.251] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:15.251] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[09May2025 02:32:15.251] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:15.251] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:15.251] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[09May2025 02:32:15.251] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:15.251] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:15.309] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[09May2025 02:32:15.309] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:15.309] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:15.309] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[09May2025 02:32:15.309] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:15.309] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:15.309] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[09May2025 02:32:15.309] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:15.309] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:15.309] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[09May2025 02:32:15.309] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:15.309] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:16.489] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[09May2025 02:32:16.489] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:16.489] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:16.489] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[09May2025 02:32:16.489] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:16.489] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:16.489] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[09May2025 02:32:16.489] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:16.489] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:16.489] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[09May2025 02:32:16.489] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09May2025 02:32:16.489] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09May2025 02:32:16.497] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[09May2025 02:32:16.555] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElTumiko[/127.110.76.174:35845] logged in with entity id 162108 at (-1401.4847801797032, 115.6892364025116, 4212.698110621794)
+[09May2025 02:32:16.555] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@322d181b into net.minecraft.network.Connection@6d46cb91
+[09May2025 02:32:16.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko joined the game
+[09May2025 02:32:21.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> WN
+[09May2025 02:32:25.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> Volteo a ver
+[09May2025 02:32:30.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> y estaba tu dragon y de la nada desaprecio
+[09May2025 02:32:32.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> JAJAJA
+[09May2025 02:32:47.882] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:32:50.738] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:33:01.116] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:33:06.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> tiro uno
+[09May2025 02:33:19.605] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:33:20.298] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:33:25.360] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:33:32.760] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:33:33.404] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:33:34.154] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:33:35.505] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:33:36.453] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:33:38.002] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:33:38.002] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09May2025 02:33:38.003] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:33:38.003] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:33:38.089] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:33:40.052] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:34:28.785] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:34:42.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[09May2025 02:34:43.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[09May2025 02:34:48.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> mano
+[09May2025 02:34:55.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> pues aca fue el de arratos
+[09May2025 02:35:14.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> el de arratos fue pas alla
+[09May2025 02:35:17.804] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:35:18.458] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:35:25.358] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:35:31.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> vamos pa abajo entonces
+[09May2025 02:35:35.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> vmao
+[09May2025 02:36:20.746] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:36:21.503] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:36:21.503] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09May2025 02:36:21.503] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:36:22.997] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:36:24.248] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:36:25.098] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:36:26.332] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:36:27.450] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:36:29.248] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:36:30.097] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 02:36:45.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> te acordas maso menos que capa ?
+[09May2025 02:36:48.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> no
+[09May2025 02:36:58.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> aca
