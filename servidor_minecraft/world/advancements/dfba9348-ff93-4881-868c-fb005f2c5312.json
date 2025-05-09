@@ -4551,6 +4551,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2025-05-09 00:03:43 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/lightning_dragon_bone_flanged_mace": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-05-08 23:26:16 +0000"
@@ -4578,6 +4584,18 @@
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-05-08 23:38:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
+    "criteria": {
+      "has_dragonscales_electric": "2025-05-09 00:04:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2025-05-09 00:03:43 +0000"
     },
     "done": true
   },
@@ -4623,9 +4641,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2025-05-09 00:03:43 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/lightning_dragon_bone_rapier": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-05-08 23:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-05-09 00:01:57 +0000"
     },
     "done": true
   },
@@ -4653,6 +4683,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-09 00:06:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_leggings": {
+    "criteria": {
+      "has_item": "2025-05-09 00:04:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-05-09 00:04:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-08 23:38:44 +0000"
@@ -4674,6 +4722,24 @@
   "spartanfire:recipes/lightning_dragon_bone_javelin": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-05-08 23:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-09 00:06:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-05-09 00:04:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-09 00:03:43 +0000"
     },
     "done": true
   },
@@ -4737,6 +4803,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_electric_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-09 00:04:25 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/lightning_dragon_bone_scythe": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-05-08 23:26:16 +0000"
@@ -4749,9 +4821,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_electric_boots": {
+    "criteria": {
+      "has_item": "2025-05-09 00:04:25 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/lightning_dragon_bone_battle_hammer": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-05-08 23:26:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_helmet": {
+    "criteria": {
+      "has_item": "2025-05-09 00:04:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-05-09 00:03:43 +0000"
     },
     "done": true
   },
@@ -4764,6 +4854,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-05-08 23:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-09 00:06:58 +0000"
     },
     "done": true
   },

@@ -5209,6 +5209,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2025-05-09 00:03:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_planks": {
     "criteria": {
       "has_logs": "2025-05-08 23:33:21 +0000"
@@ -5251,6 +5257,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2025-05-09 00:03:41 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/lightning_dragon_bone_boomerang": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-05-08 23:24:43 +0000"
@@ -5290,6 +5302,12 @@
   "spartanfire:recipes/lightning_dragon_bone_throwing_knife": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-05-08 23:24:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2025-05-09 00:03:41 +0000"
     },
     "done": true
   },
@@ -5377,15 +5395,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-09 00:03:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_sword_lightning": {
     "criteria": {
       "has_item": "2025-05-08 23:24:43 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-09 00:07:06 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/lightning_dragon_bone_katana": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-05-08 23:24:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-05-09 00:07:06 +0000"
     },
     "done": true
   },
@@ -5473,9 +5509,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-05-09 00:03:41 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/lightning_dragon_bone_saber": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-05-08 23:24:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-09 00:07:06 +0000"
     },
     "done": true
   },
