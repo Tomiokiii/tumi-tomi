@@ -5684,5 +5684,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-09 03:35:26 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-05-09 03:28:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
