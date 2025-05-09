@@ -4971,69 +4971,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
-    "criteria": {
-      "has_sandstone": "2025-05-09 04:13:12 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/iced_dragon_bone_pike": {
-    "criteria": {
-      "has_ice_dragon_blood": "2025-05-09 04:11:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_leggings": {
-    "criteria": {
-      "has_item": "2025-05-09 04:27:35 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/iced_dragon_bone_scythe": {
-    "criteria": {
-      "has_ice_dragon_blood": "2025-05-09 04:11:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-05-09 04:13:12 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/iced_dragon_bone_boomerang": {
-    "criteria": {
-      "has_ice_dragon_blood": "2025-05-09 04:11:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_blue_boots": {
-    "criteria": {
-      "has_item": "2025-05-09 04:20:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/whos_the_pillager_now": {
     "criteria": {
       "kill_pillager": "2025-05-09 03:34:11 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/iced_dragon_bone_glaive": {
-    "criteria": {
-      "has_ice_dragon_blood": "2025-05-09 04:11:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-05-09 04:13:12 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/iced_dragon_bone_longbow": {
-    "criteria": {
-      "has_ice_dragon_blood": "2025-05-09 04:11:11 +0000"
     },
     "done": true
   },
@@ -5043,21 +4983,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_blue_leggings": {
+  "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
-      "has_item": "2025-05-09 04:20:19 +0000"
+      "has_glowstone_dust": "2025-05-09 03:48:52 +0000"
     },
     "done": true
   },
-  "spartanfire:recipes/iced_dragon_bone_longsword": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "has_ice_dragon_blood": "2025-05-09 04:11:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-05-09 04:13:12 +0000"
+      "has_glowstone_dust": "2025-05-09 03:48:52 +0000"
     },
     "done": true
   },
@@ -5067,33 +5001,45 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_white_boots": {
+  "iceandfire:recipes/misc/dragonscale_copper_to_dragonscales_copper": {
     "criteria": {
-      "has_item": "2025-05-09 04:27:35 +0000"
+      "has_dragonscale_copper": "2025-05-09 04:05:49 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_blue_chestplate": {
+  "spartanfire:recipes/iced_dragon_bone_pike": {
     "criteria": {
-      "has_item": "2025-05-09 04:20:19 +0000"
+      "has_ice_dragon_blood": "2025-05-09 04:11:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+  "spartanfire:recipes/iced_dragon_bone_scythe": {
     "criteria": {
-      "has_sandstone": "2025-05-09 04:13:12 +0000"
+      "has_ice_dragon_blood": "2025-05-09 04:11:11 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_white_helmet": {
+  "spartanfire:recipes/iced_dragon_bone_boomerang": {
     "criteria": {
-      "has_item": "2025-05-09 04:27:35 +0000"
+      "has_ice_dragon_blood": "2025-05-09 04:11:11 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_blue_helmet": {
+  "spartanfire:recipes/iced_dragon_bone_glaive": {
     "criteria": {
-      "has_item": "2025-05-09 04:20:19 +0000"
+      "has_ice_dragon_blood": "2025-05-09 04:11:11 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_longbow": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-05-09 04:11:11 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_longsword": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-05-09 04:11:11 +0000"
     },
     "done": true
   },
@@ -5115,21 +5061,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
-    "criteria": {
-      "has_sandstone": "2025-05-09 04:13:12 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/iced_dragon_bone_saber": {
     "criteria": {
       "has_ice_dragon_blood": "2025-05-09 04:11:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
-    "criteria": {
-      "has_dragonscales_white": "2025-05-09 04:27:35 +0000"
     },
     "done": true
   },
@@ -5145,12 +5079,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_white_chestplate": {
-    "criteria": {
-      "has_item": "2025-05-09 04:27:35 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/iced_dragon_bone_halberd": {
     "criteria": {
       "has_ice_dragon_blood": "2025-05-09 04:11:11 +0000"
@@ -5163,21 +5091,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-05-09 04:13:12 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/iced_dragon_bone_heavy_crossbow": {
     "criteria": {
       "has_ice_dragon_blood": "2025-05-09 04:11:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-05-09 04:13:12 +0000"
     },
     "done": true
   },
@@ -5205,45 +5121,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-05-09 04:13:12 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/iced_dragon_bone_dagger": {
     "criteria": {
       "has_ice_dragon_blood": "2025-05-09 04:11:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-05-09 04:13:12 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/iced_dragon_bone_spear": {
     "criteria": {
       "has_ice_dragon_blood": "2025-05-09 04:11:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonscale_copper_to_dragonscales_copper": {
-    "criteria": {
-      "has_dragonscale_copper": "2025-05-09 04:05:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-05-09 03:48:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall": {
-    "criteria": {
-      "has_sandstone": "2025-05-09 04:13:12 +0000"
     },
     "done": true
   },
@@ -5259,12 +5145,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-05-09 03:48:52 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/dragonbone_sword_ice": {
     "criteria": {
       "has_item": "2025-05-09 04:11:11 +0000"
@@ -5277,9 +5157,129 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-05-09 04:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-09 04:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-09 04:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-09 04:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-09 04:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-05-09 04:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-09 04:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-09 04:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-09 04:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-09 04:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-05-09 04:13:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2025-05-09 04:20:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-05-09 04:20:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-09 04:20:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-05-09 04:20:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
     "criteria": {
       "has_dragonscales_blue": "2025-05-09 04:20:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-05-09 04:27:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-05-09 04:27:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-05-09 04:27:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-05-09 04:27:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-09 04:27:35 +0000"
     },
     "done": true
   },
