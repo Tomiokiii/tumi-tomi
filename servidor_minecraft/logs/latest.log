@@ -103,3 +103,49 @@
 [09May2025 00:09:45.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 1.9680245620936603,-2.9640495106590095,14.384583732270812
 [09May2025 00:09:45.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 1.6728451124270123,-3.0475681162399013,12.211528900170151
 [09May2025 00:09:45.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 1.377150560787186,-3.1212315263622514,10.034643851488909
+[09May2025 00:34:06.780] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ElTomiokiii is c9118ff5-4174-48ea-b169-60aae0aed7ea
+[09May2025 00:34:10.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElTomiokiii[/127.213.250.82:59933] logged in with entity id 60018 at (-1669.2356230038797, 36.0, 4419.893791633104)
+[09May2025 00:34:10.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTomiokiii joined the game
+[09May2025 00:36:29.107] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTumiko lost connection: Disconnected
+[09May2025 00:36:29.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko left the game
+[09May2025 00:36:34.555] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ElTumiko is dfba9348-ff93-4881-868c-fb005f2c5312
+[09May2025 00:36:40.659] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElTumiko[/127.110.76.174:49781] logged in with entity id 61800 at (-1831.6425995940006, 82.0, 1229.804358503012)
+[09May2025 00:36:40.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko joined the game
+[09May2025 00:37:30.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> ptm no tengo huesos de dragon
+[09May2025 00:37:37.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> yo tengo
+[09May2025 00:37:39.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> cuantos encecitas?
+[09May2025 00:37:45.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> 4
+[09May2025 00:38:01.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> en tu culo mi aparato idiota
+[09May2025 00:38:03.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> deah
+[09May2025 00:38:05.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> ya voy
+[09May2025 00:38:30.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> estoy aprovechando la lluvia
+[09May2025 00:38:32.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> XD
+[09May2025 00:38:51.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> PTM VERDAD
+[09May2025 00:39:02.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> NOOOOOOOOOOOOO
+[09May2025 00:39:13.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> Y lel bug ese del agua'
+[09May2025 00:39:19.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> no dejo
+[09May2025 00:39:28.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> XD
+[09May2025 00:40:14.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 0.6336627167104325,0.0,-11.108364115092627
+[09May2025 00:40:14.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 0.7619014931049151,0.0,-13.33010493922302
+[09May2025 00:40:15.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -1.2921956827110535,0.0,22.217851034254636
+[09May2025 00:40:15.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -1.2921956827110535,0.0,22.217851034254636
+[09May2025 00:40:15.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -1.161715409054068,0.0,19.99600901442591
+[09May2025 00:40:15.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -1.1614905617427667,0.0,19.99599886336273
+[09May2025 00:40:15.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -1.030811972757192,0.0,17.774147890296263
+[09May2025 00:40:15.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -0.9000514102042416,0.0,15.552293216412181
+[09May2025 00:40:15.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -0.7692185469650212,0.0,13.330435278407094
+[09May2025 00:40:15.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -0.6383219145204748,0.0,11.108574461447006
+[09May2025 00:40:55.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> VINO UN PENDEJO DE ETAPA 3 A SEGUN MATARME
+[09May2025 00:41:00.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> XD
+[09May2025 00:41:01.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> Y PENECCITO LO MATO DE 3 GOLPES
+[09May2025 00:41:04.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> JAJAJA
+[09May2025 00:42:05.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -2.502771742819732,0.0,-10.733938916941952
+[09May2025 00:42:05.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -2.96798966602546,0.0,-12.894831315206375
+[09May2025 00:42:36.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTomiokiii moved wrongly!
+[09May2025 00:42:42.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTomiokiii moved wrongly!
+[09May2025 00:43:08.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> Donde tenes a tu heuvo electrico?
+[09May2025 00:43:21.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> aca
+[09May2025 00:43:22.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTumiko moved wrongly!
+[09May2025 00:43:33.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> donde los ponemos x?
+[09May2025 00:43:41.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> cuidado mano porque cuando nazca el jugador mas cercano se le asigna
+[09May2025 00:43:47.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> serio?
