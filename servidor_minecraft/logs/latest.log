@@ -5331,3 +5331,19 @@
 [09May2025 04:29:25.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 11.661141562788544,0.2987502848795316,-6.578823875288435
 [09May2025 04:29:25.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 13.614971811707619,0.3301091127397626,-7.681052933656247
 [09May2025 04:29:25.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 15.570773981256934,0.35776759891251686,-8.78438319766201
+[09May2025 04:45:50.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTumiko lost connection: Disconnected
+[09May2025 04:45:50.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko left the game
+[09May2025 04:45:59.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09May2025 04:45:59.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09May2025 04:45:59.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09May2025 04:45:59.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09May2025 04:45:59.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[tumiko y tomiokiii]'/minecraft:overworld
+[09May2025 04:45:59.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[tumiko y tomiokiii]'/minecraft:the_end
+[09May2025 04:45:59.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[tumiko y tomiokiii]'/minecraft:the_nether
+[09May2025 04:45:59.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[tumiko y tomiokiii]'/twilightforest:twilight_forest
+[09May2025 04:45:59.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09May2025 04:45:59.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09May2025 04:45:59.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09May2025 04:45:59.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[09May2025 04:45:59.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09May2025 04:46:00.323] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
