@@ -5630,6 +5630,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2025-05-09 02:08:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-05-09 02:08:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
     "criteria": {
       "has_dragonscales_gray": "2025-05-09 02:20:11 +0000"
@@ -5648,18 +5660,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
-    "criteria": {
-      "has_sea_serpent_scales_bronze": "2025-05-09 02:08:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2025-05-09 02:46:26 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_gray_leggings": {
     "criteria": {
       "has_item": "2025-05-09 02:20:11 +0000"
@@ -5672,9 +5672,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_bronze_boots": {
+  "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
-      "has_item": "2025-05-09 02:08:19 +0000"
+      "has_log": "2025-05-09 02:46:26 +0000"
     },
     "done": true
   },

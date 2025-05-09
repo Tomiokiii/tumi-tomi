@@ -32,8 +32,10 @@
       "minecraft:cherry_grove": "2025-05-09 02:27:11 +0000",
       "minecraft:birch_forest": "2025-05-08 23:22:13 +0000",
       "minecraft:windswept_hills": "2025-05-06 03:20:35 +0000",
+      "minecraft:bamboo_jungle": "2025-05-09 02:56:17 +0000",
       "minecraft:savanna_plateau": "2025-05-09 02:27:10 +0000",
       "minecraft:beach": "2025-05-04 01:21:13 +0000",
+      "minecraft:stony_peaks": "2025-05-09 02:58:57 +0000",
       "minecraft:river": "2025-05-04 00:56:37 +0000",
       "minecraft:lukewarm_ocean": "2025-05-08 23:49:20 +0000",
       "minecraft:snowy_plains": "2025-05-04 00:43:27 +0000",
@@ -4872,9 +4874,45 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_amythest_boots": {
+    "criteria": {
+      "has_item": "2025-05-09 02:41:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
+    "criteria": {
+      "has_item": "2025-05-09 02:41:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
+    "criteria": {
+      "has_item": "2025-05-09 02:41:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+    "criteria": {
+      "has_dragonscales_amythest": "2025-05-09 02:41:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-09 02:41:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2025-05-09 02:48:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-05-09 02:49:10 +0000"
     },
     "done": true
   },
@@ -4896,27 +4934,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-05-09 02:53:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_boots": {
-    "criteria": {
-      "has_item": "2025-05-09 02:41:03 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/misc/witherbone_pole_from_wool": {
     "criteria": {
       "has_witherbone": "2025-05-09 02:50:39 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_leggings": {
-    "criteria": {
-      "has_item": "2025-05-09 02:41:03 +0000"
     },
     "done": true
   },
@@ -4932,39 +4952,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-09 02:53:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-05-09 02:53:07 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_amythest_helmet": {
-    "criteria": {
-      "has_item": "2025-05-09 02:41:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-05-09 02:53:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
-    "criteria": {
-      "has_dragonscales_amythest": "2025-05-09 02:41:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
-    "criteria": {
-      "has_sunflower": "2025-05-09 02:49:10 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_chestplate": {
-    "criteria": {
-      "has_item": "2025-05-09 02:41:03 +0000"
     },
     "done": true
   },
