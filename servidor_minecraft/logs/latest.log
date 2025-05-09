@@ -1215,3 +1215,138 @@
 [09May2025 01:34:54.905] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElTumiko[/127.110.76.174:48445] logged in with entity id 103792 at (-1553.336391457665, 119.48031478871393, 1360.4324487035808)
 [09May2025 01:34:54.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko joined the game
 [09May2025 01:35:08.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> AA
+[09May2025 01:35:55.016] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTumiko lost connection: Timed out
+[09May2025 01:35:55.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko left the game
+[09May2025 01:36:11.449] [User Authenticator #19/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ElTumiko is dfba9348-ff93-4881-868c-fb005f2c5312
+[09May2025 01:36:14.263] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElTumiko[/127.110.76.174:46611] logged in with entity id 105075 at (-1623.8226393030297, 138.02924907600027, 1338.9681635882125)
+[09May2025 01:36:14.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko joined the game
+[09May2025 01:36:20.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> andaba
+[09May2025 01:36:33.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> andabas
+[09May2025 01:37:15.478] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTumiko lost connection: Disconnected
+[09May2025 01:37:15.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko left the game
+[09May2025 01:37:20.101] [User Authenticator #20/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ElTumiko is dfba9348-ff93-4881-868c-fb005f2c5312
+[09May2025 01:37:24.713] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElTumiko[/127.110.76.174:46369] logged in with entity id 106243 at (-1830.3423703006908, 82.0, 1228.912300311036)
+[09May2025 01:37:24.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko joined the game
+[09May2025 01:37:32.001] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:32.103] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:32.199] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:32.297] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:32.398] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:32.497] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:32.600] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:32.699] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:32.799] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:32.898] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:32.999] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:33.099] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:33.199] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:33.299] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:33.398] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:33.500] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:33.597] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:33.699] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:33.801] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:33.899] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:33.998] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:34.104] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:34.202] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:34.299] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:34.397] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:34.500] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:34.598] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:34.701] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:34.798] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:34.900] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:34.997] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:35.097] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:35.197] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:35.299] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:35.397] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:35.499] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:35.598] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:35.698] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:35.802] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:35.899] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:38.200] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:38.298] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:38.400] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:38.501] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:38.599] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:38.697] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:38.798] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:38.898] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:39.002] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:39.098] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:39.197] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:39.300] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:39.400] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:39.502] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:39.600] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:39.699] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:39.801] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:39.906] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:40.005] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:40.098] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:40.198] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:40.299] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:40.400] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:40.499] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:40.599] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:40.698] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:40.798] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:40.899] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:41.000] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:41.098] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:41.197] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:41.300] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:41.398] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:41.498] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:41.597] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:41.698] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:41.799] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:41.897] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:42.001] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:42.097] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:42.196] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:42.299] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:42.398] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:42.497] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:42.597] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:42.709] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:42.800] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:42.900] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:43.002] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:43.098] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:43.198] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:43.297] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:43.402] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:43.500] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:43.602] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:43.698] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:43.799] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:43.901] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:43.996] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:44.097] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:37:57.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> ando
+[09May2025 01:39:12.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved wrongly! 0.26458796840983106
+[09May2025 01:40:27.733] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:40:28.091] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09May2025 01:40:39.050] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/106021, l='ServerLevel[tumiko y tomiokiii]', x=481.65, y=78.86, z=7967.63]
+[09May2025 01:40:40.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved wrongly! 0.4156723997775771
+[09May2025 01:40:40.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved wrongly! 1.073058069160652
+[09May2025 01:40:40.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved wrongly! 1.6528722295570333
+[09May2025 01:40:41.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved wrongly! 0.574663090041558
+[09May2025 01:40:41.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved wrongly! 0.5481283376583406
+[09May2025 01:40:41.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved wrongly! 1.5968839921556537
+[09May2025 01:40:41.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved wrongly! 2.70360291711188
+[09May2025 01:40:41.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved wrongly! 3.93411206034802
+[09May2025 01:43:24.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved wrongly! 0.5719747474213364
+[09May2025 01:43:24.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved wrongly! 1.8476657121191238
+[09May2025 01:43:24.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved wrongly! 1.1396043553522759
+[09May2025 01:43:24.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved wrongly! 2.4402368074261176
+[09May2025 01:44:08.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 10.306258150612166,0.10398945664644543,-3.7521537571847148
+[09May2025 01:44:08.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 10.569162923784916,0.0629308575002483,-2.8413238982266193
+[09May2025 01:44:08.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 12.716898708269582,0.07143196493416326,-3.284299534470847
+[09May2025 01:44:09.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 10.834330730548572,0.00664316775782936,0.09472166195155296
+[09May2025 01:44:09.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -10.691452522507234,0.0,-1.5431784336724377
+[09May2025 01:45:13.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> XD
