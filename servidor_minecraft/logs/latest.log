@@ -216,3 +216,6 @@
 [09May2025 18:46:41.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippogryph (vehicle of ElTumiko) moved too quickly! 1.0004277251365465,10.15797624884351,-2.261658962111369
 [09May2025 18:50:53.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko has completed the challenge [Hero of the Village]
 [09May2025 19:13:04.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTumiko moved too quickly! 0.0,-11.433643280623414,0.0
+[09May2025 19:29:31.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko has made the advancement [Those Were the Days]
+[09May2025 19:31:27.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko has made the advancement [War Pigs]
+[09May2025 19:31:33.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko has made the advancement [Hidden in the Depths]
