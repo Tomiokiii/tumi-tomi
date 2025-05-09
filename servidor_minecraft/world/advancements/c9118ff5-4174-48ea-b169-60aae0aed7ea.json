@@ -28,11 +28,13 @@
       "minecraft:snowy_slopes": "2025-05-04 03:24:23 +0000",
       "minecraft:old_growth_pine_taiga": "2025-05-09 01:22:31 +0000",
       "minecraft:taiga": "2025-05-04 04:03:26 +0000",
+      "minecraft:deep_ocean": "2025-05-09 02:06:57 +0000",
       "minecraft:frozen_river": "2025-05-04 03:29:23 +0000",
       "minecraft:sunflower_plains": "2025-05-08 03:42:56 +0000",
       "minecraft:cherry_grove": "2025-05-08 17:51:18 +0000",
       "minecraft:birch_forest": "2025-05-08 17:37:42 +0000",
       "minecraft:windswept_hills": "2025-05-08 03:36:07 +0000",
+      "minecraft:bamboo_jungle": "2025-05-09 02:18:54 +0000",
       "minecraft:savanna_plateau": "2025-05-08 17:52:16 +0000",
       "minecraft:beach": "2025-05-04 01:22:41 +0000",
       "minecraft:dark_forest": "2025-05-08 17:38:50 +0000",
@@ -47,10 +49,12 @@
       "minecraft:swamp": "2025-05-08 03:39:16 +0000",
       "minecraft:cold_ocean": "2025-05-08 03:28:21 +0000",
       "minecraft:forest": "2025-05-04 00:53:48 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-09 01:57:55 +0000",
       "minecraft:ice_spikes": "2025-05-07 02:42:22 +0000",
       "minecraft:frozen_ocean": "2025-05-04 04:08:11 +0000",
       "minecraft:deep_frozen_ocean": "2025-05-07 02:41:12 +0000",
       "minecraft:ocean": "2025-05-08 03:28:38 +0000",
+      "minecraft:jungle": "2025-05-09 02:16:21 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-09 01:29:20 +0000",
       "minecraft:snowy_beach": "2025-05-04 04:08:08 +0000",
       "minecraft:windswept_savanna": "2025-05-08 03:40:02 +0000",
@@ -5575,6 +5579,96 @@
   "iceandfire:recipes/misc/dragonscale_amythest_to_dragonscales_amythest": {
     "criteria": {
       "has_dragonscale_amythest": "2025-05-09 01:20:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2025-05-09 01:46:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2025-05-09 01:46:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2025-05-09 01:46:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-09 01:46:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2025-05-09 01:46:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-09 02:08:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-05-09 02:08:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-05-09 02:08:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-05-09 02:20:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-05-09 02:20:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-09 02:20:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2025-05-09 02:08:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-05-09 02:20:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-05-09 02:20:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-05-09 02:08:19 +0000"
     },
     "done": true
   },
