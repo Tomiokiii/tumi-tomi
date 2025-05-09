@@ -36,6 +36,7 @@
       "minecraft:beach": "2025-05-04 01:22:41 +0000",
       "minecraft:dark_forest": "2025-05-08 17:38:50 +0000",
       "minecraft:river": "2025-05-04 00:53:16 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-08 23:34:51 +0000",
       "minecraft:snowy_plains": "2025-05-04 00:36:09 +0000",
       "minecraft:stony_shore": "2025-05-07 02:29:59 +0000",
       "minecraft:dripstone_caves": "2025-05-04 03:54:27 +0000",
@@ -554,6 +555,7 @@
       "rotten_flesh": "2025-05-04 01:29:49 +0000",
       "golden_carrot": "2025-05-08 01:36:42 +0000",
       "cooked_rabbit": "2025-05-04 21:33:30 +0000",
+      "cooked_chicken": "2025-05-08 23:34:22 +0000",
       "carrot": "2025-05-04 22:15:18 +0000"
     },
     "done": false
@@ -5195,6 +5197,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-05-08 23:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-05-08 23:33:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-05-08 23:33:21 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/lightning_dragon_bone_flanged_mace": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-05-08 23:24:43 +0000"
@@ -5207,9 +5227,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-08 23:38:55 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/lightning_dragon_bone_pike": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-05-08 23:24:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-05-08 23:38:55 +0000"
     },
     "done": true
   },
@@ -5222,6 +5254,12 @@
   "spartanfire:recipes/lightning_dragon_bone_boomerang": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-05-08 23:24:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-08 23:38:55 +0000"
     },
     "done": true
   },
@@ -5261,6 +5299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mangrove_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-08 23:33:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-05-08 23:25:53 +0000"
@@ -5273,9 +5317,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-08 23:38:55 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/lightning_dragon_bone_glaive": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-05-08 23:24:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-05-08 23:38:55 +0000"
     },
     "done": true
   },
@@ -5288,6 +5344,12 @@
   "iceandfire:recipes/decorations/copper_pile": {
     "criteria": {
       "has_item": "2025-05-08 23:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-08 23:38:55 +0000"
     },
     "done": true
   },
@@ -5333,6 +5395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-05-08 23:38:55 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/lightning_dragon_bone_warhammer": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-05-08 23:24:43 +0000"
@@ -5345,6 +5413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-05-08 23:38:55 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/lightning_dragon_bone_heavy_crossbow": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-05-08 23:24:43 +0000"
@@ -5354,6 +5428,12 @@
   "spartanfire:recipes/lightning_dragon_bone_tomahawk": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-05-08 23:24:43 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-05-08 23:30:08 +0000"
     },
     "done": true
   },

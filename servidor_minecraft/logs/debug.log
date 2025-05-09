@@ -5266,3 +5266,546 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08May2025 23:32:09.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> ya te tire un stack
 [08May2025 23:32:10.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> voy a comprar y traer perlas
 [08May2025 23:32:10.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> XD
+[08May2025 23:32:16.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> ahh dale
+[08May2025 23:32:16.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> para ir
+[08May2025 23:32:21.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> tengo un stack nomas
+[08May2025 23:32:28.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> traigo 6
+[08May2025 23:32:31.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> hagale
+[08May2025 23:32:32.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> 3 para cada uno
+[08May2025 23:32:58.777] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:33:01.489] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:33:05.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[08May2025 23:33:05.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[08May2025 23:33:05.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -1.1598776231830925,0.0,-11.068204042608613
+[08May2025 23:33:05.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 1.1598514964327933,0.0,11.068207570706818
+[08May2025 23:33:20.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -1.159811451744872,0.0,-11.068212978252632
+[08May2025 23:33:20.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -1.3917737420938465,0.0,-13.281855573903158
+[08May2025 23:33:20.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -1.623736032442821,0.0,-15.495498169553684
+[08May2025 23:33:20.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 1.623736032442821,0.0,15.495498169553684
+[08May2025 23:33:20.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 1.623736032442821,0.0,15.495498169553684
+[08May2025 23:33:20.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 1.623736032442821,0.0,15.495498169553684
+[08May2025 23:33:20.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 1.3917737420938465,0.0,13.281855573903158
+[08May2025 23:33:21.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 1.159811451744872,0.0,11.068212978252632
+[08May2025 23:33:27.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -1.159811451744872,0.0,-11.068212978252632
+[08May2025 23:33:27.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 2.9746441974332356,-1.7269623125522173,9.975054408110736
+[08May2025 23:33:27.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -1.3917737420938465,0.0,-13.281855573903158
+[08May2025 23:33:27.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 3.5713563275728575,-1.9602515562794167,12.018159574350648
+[08May2025 23:33:27.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -1.623736032442821,0.0,-15.495498169553684
+[08May2025 23:33:27.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 4.168506363588904,-2.166012669246811,14.073074800730865
+[08May2025 23:33:27.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -1.8556983227917954,0.0,-17.70914076520421
+[08May2025 23:33:27.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 4.766042632588096,-2.347493970884045,16.138406500155725
+[08May2025 23:33:27.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -2.08766061314077,0.0,-19.922783360854737
+[08May2025 23:33:27.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 5.36391955907834,-2.5075604789280845,18.21292552880459
+[08May2025 23:33:27.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -2.319622903489744,0.0,-22.136425956505263
+[08May2025 23:33:27.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 5.9620969454756505,-2.6487391390229362,20.295547781829555
+[08May2025 23:33:27.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -2.5515851938387186,0.0,-24.35006855215579
+[08May2025 23:33:27.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 6.560539337511045,-2.7732587172265966,22.38531707875427
+[08May2025 23:33:27.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -1.8556983227917954,0.0,-17.70914076520421
+[08May2025 23:33:27.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 4.780786905301966,-1.4206229489846862,16.536050735666322
+[08May2025 23:33:27.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -2.08766061314077,0.0,-19.922783360854737
+[08May2025 23:33:27.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 5.379669186556157,-1.5174897173391884,18.637683582289355
+[08May2025 23:33:27.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -2.319622903489744,0.0,-22.136425956505263
+[08May2025 23:33:27.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -2.5515851938387186,0.0,-24.35006855215579
+[08May2025 23:33:37.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 4.505870165255146,0.0,-9.969503590214117
+[08May2025 23:33:37.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.41601810593056143,0.0,-11.121035857161132
+[08May2025 23:33:37.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.4992217271001209,0.0,-13.345243028594723
+[08May2025 23:33:37.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 5.390046717024688,0.0,-11.984065907269724
+[08May2025 23:33:37.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 6.1698904356853745,0.0,-13.760909870912656
+[08May2025 23:33:37.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.5824253482655877,0.0,-15.569450200028314
+[08May2025 23:33:37.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 6.857712595544172,0.0,-15.328086246845487
+[08May2025 23:33:37.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.6656289694274165,0.0,-17.79365737146236
+[08May2025 23:33:37.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 7.586198473993591,0.0,-16.943011592175026
+[08May2025 23:33:37.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.748832590586062,0.0,-20.017864542896405
+[08May2025 23:33:37.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 8.350549752240113,0.0,-18.600051528511358
+[08May2025 23:33:37.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.8320362117419791,0.0,-22.242071714330905
+[08May2025 23:33:37.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 5.529573025314676,0.0,-12.333542795975518
+[08May2025 23:33:37.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.5824253481389405,0.0,-15.569450200037409
+[08May2025 23:33:37.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.6656289692900828,0.0,-17.79365737147191
+[08May2025 23:33:37.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 6.353458141453757,0.0,-14.060489752675494
+[08May2025 23:33:37.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.748832590439406,0.0,-20.017864542906864
+[08May2025 23:33:37.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.8320362115869102,0.0,-22.24207171434182
+[08May2025 23:33:48.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -3.9816634298099416,0.0,-10.643351317591623
+[08May2025 23:33:48.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -4.328719591733943,0.0,-12.574163165669233
+[08May2025 23:33:48.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -4.6961450147955475,0.0,-14.532520111795975
+[08May2025 23:33:48.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -5.112737051027125,0.0,-16.50559432481691
+[08May2025 23:33:48.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -5.590959723429705,0.0,-18.483975330981593
+[08May2025 23:33:48.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -11.079636106943553,0.0,1.2173014673389844
+[08May2025 23:33:48.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -12.681033797208102,0.0,1.7091230204023304
+[08May2025 23:33:48.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -6.133238392712656,0.0,-20.462280117045566
+[08May2025 23:33:48.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -6.736931769148441,0.0,-22.437912600885966
+[08May2025 23:33:48.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -14.338850545118476,0.0,2.2365391036028086
+[08May2025 23:33:48.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -7.397065592190302,0.0,-24.40993851985513
+[08May2025 23:33:48.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -16.046428901872332,0.0,2.7953495623851268
+[08May2025 23:33:48.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -4.492408071895397,0.0,-17.627646925332783
+[08May2025 23:33:49.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -5.247558022121893,0.0,-19.592944102366573
+[08May2025 23:33:49.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -6.042024033052257,0.0,-21.555436883076254
+[08May2025 23:33:49.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 10.04587024095963,0.0,-3.226936072293938
+[08May2025 23:33:49.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 11.870191967833534,0.0,-3.859399399087124
+[08May2025 23:33:49.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 11.870191967833534,0.0,-3.859399399087124
+[08May2025 23:33:49.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 11.870191967833534,0.0,-3.859399399087124
+[08May2025 23:33:49.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -6.863922401455284,0.0,-23.519369122922626
+[08May2025 23:33:49.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 10.015756219633658,0.0,-3.2079372714570127
+[08May2025 23:33:49.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -10.039182639559613,0.0,3.222716894599216
+[08May2025 23:33:52.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -2.5073459212385387,0.0,-10.820041245226093
+[08May2025 23:33:52.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -3.0343880072246066,0.0,-12.97911164350785
+[08May2025 23:33:52.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 2.6628921930725937,0.0,10.790006942314676
+[08May2025 23:33:52.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 2.6628921930725937,0.0,10.790006942314676
+[08May2025 23:34:04.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> llevo algo mas ?
+[08May2025 23:34:07.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> no
+[08May2025 23:34:15.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTomiokiii moved wrongly!
+[08May2025 23:34:16.560] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:34:17.868] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:34:19.040] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:34:38.329] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:35:10.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTomiokiii moved wrongly!
+[08May2025 23:35:46.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> mano, que chimba es jugar con mods junto a alguien
+[08May2025 23:35:48.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> gracias pibe
+[08May2025 23:35:53.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> pa eso estamos
+[08May2025 23:36:08.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> cuantos totems tenes
+[08May2025 23:36:20.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> 7 contanod el que tengo puesto
+[08May2025 23:36:26.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> hagale
+[08May2025 23:36:56.329] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:36:59.221] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:37:04.039] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:37:07.533] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:37:12.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 2.450241662877488,0.14440925475011568,10.797421942340407
+[08May2025 23:37:26.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 2.4659085068519744,-3.444103682637035,9.459661266930198
+[08May2025 23:37:26.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 2.9830395690253226,-3.9386715618659593,11.424200760824533
+[08May2025 23:37:26.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 3.507133511563552,-4.374880431345872,13.410606672865924
+[08May2025 23:37:26.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 4.037368714583636,-4.759616654227159,15.416298765713236
+[08May2025 23:37:26.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 4.57302050934868,-5.098954002808455,17.439001270030985
+[08May2025 23:37:26.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 5.113449738032841,-5.398249544257169,19.476706957265833
+[08May2025 23:37:26.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 3.7014207965723926,-2.7788590861268005,14.00773182148805
+[08May2025 23:37:27.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 4.249780202477268,-3.0116882709127424,16.07034165212326
+[08May2025 23:37:27.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 4.801417544186734,-3.2170436118939563,18.143245601170293
+[08May2025 23:37:27.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 5.355946025275898,-3.3981670226393703,20.225228962656274
+[08May2025 23:37:46.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -1.0463890004130008,-2.266129125966529,9.976562761235073
+[08May2025 23:37:46.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.22831328739198398,0.0,11.126471831629715
+[08May2025 23:37:46.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -1.2173090929213686,-2.764362064434607,11.970012216627765
+[08May2025 23:37:46.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.2739759769644934,0.0,13.35176619839558
+[08May2025 23:37:46.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -1.3725424894519165,-3.203803516163447,13.99083640383651
+[08May2025 23:37:46.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.31963867441800176,0.0,15.577060565269221
+[08May2025 23:37:46.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -1.5139402201300527,-3.591390876588278,16.035805104507745
+[08May2025 23:37:46.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.36530137882255076,0.0,17.802354932237904
+[08May2025 23:37:46.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -1.6431348935266215,-3.933242928482983,18.10206926605224
+[08May2025 23:37:46.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.41096408935800355,0.0,20.027649299290715
+[08May2025 23:37:46.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -1.7615664704005667,-4.234756438254109,20.187116024087118
+[08May2025 23:37:46.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.27397619854582445,0.0,13.351766201431019
+[08May2025 23:37:46.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -1.0128214578262487,-2.7994521808173545,14.274578615481005
+[08May2025 23:37:46.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -1.1133871124682173,-3.0340067763925447,16.390803056212462
+[08May2025 23:37:46.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.3196389192578408,0.0,15.577060568623438
+[08May2025 23:37:46.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.3653016441764976,0.0,17.802354935873154
+[08May2025 23:37:46.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! -0.4109643728052106,0.0,20.027649303173803
+[08May2025 23:38:05.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[08May2025 23:38:05.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[08May2025 23:38:05.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -3.7974457035570595,-0.033926120329553555,-10.199494412981949
+[08May2025 23:38:05.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -4.595493901942518,-0.038509080187310474,-12.2410878182136
+[08May2025 23:38:05.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -5.403659928741945,-0.04255125078185529,-14.282820684476974
+[08May2025 23:38:05.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 4.034841767256012,0.0205309260462343,10.208581789512209
+[08May2025 23:38:05.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 4.034841767256012,0.0205309260462343,10.208581789512209
+[08May2025 23:38:05.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 4.034841767256012,0.0205309260462343,10.208581789512209
+[08May2025 23:38:07.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -4.411929583974143,0.0,-10.213834171919189
+[08May2025 23:38:07.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -5.294772034435255,0.0,-12.256603746950532
+[08May2025 23:38:07.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -6.177726591565488,0.0,-14.299373994976122
+[08May2025 23:38:07.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -7.060780026778048,0.0,-16.34214483658343
+[08May2025 23:38:07.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -7.943920672459171,0.0,-18.38491620172954
+[08May2025 23:38:07.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -8.827138237773397,0.0,-20.42768802863702
+[08May2025 23:38:07.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -9.710423646204163,0.0,-22.47046026281805
+[08May2025 23:38:07.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -10.593768892263824,0.0,-24.513232856214017
+[08May2025 23:38:07.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -7.947952676531713,0.0,-18.384940406516762
+[08May2025 23:38:07.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -8.831397248507301,0.0,-20.42771359618291
+[08May2025 23:38:47.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> tenes la flauta?
+[08May2025 23:39:07.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> tene
+[08May2025 23:39:08.326] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:39:14.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> pa donde
+[08May2025 23:39:16.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> uhh gracias
+[08May2025 23:39:18.935] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:39:20.723] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:39:20.724] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:39:34.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> uu no hay cerca
+[08May2025 23:39:43.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 9.006747302659505,0.5138822448060409,5.492330087393384
+[08May2025 23:39:43.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 10.752603887893883,0.583300783580313,6.725572919868682
+[08May2025 23:39:43.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 12.48051685416658,0.6445279347792336,7.996606484102813
+[08May2025 23:39:43.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 4.459672947297804,0.0,9.24541296026473
+[08May2025 23:39:43.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 4.931577537566682,0.0,10.246899399347058
+[08May2025 23:39:43.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 14.192603548514853,0.6985302821366872,9.300971473749087
+[08May2025 23:39:43.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 5.347797386183856,0.0,11.130210438617723
+[08May2025 23:39:43.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 15.890520431840514,0.7461603525059672,10.63495104841786
+[08May2025 23:39:43.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 5.714903292664076,0.0,11.909290775253794
+[08May2025 23:39:43.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 6.038690702179792,0.0,12.596439632166948
+[08May2025 23:39:43.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 17.57774288506789,0.7881700745716671,11.99318651021531
+[08May2025 23:39:43.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 12.01524745953725,0.3900462309022714,9.070608806251585
+[08May2025 23:39:43.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 13.685278890219251,0.42272660193049205,10.468520613905639
+[08May2025 23:39:43.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 15.348237014273764,0.45155068917739527,11.882798480210113
+[08May2025 23:39:43.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 17.004956481882573,0.4769735341291721,13.311511210243225
+[08May2025 23:39:56.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> por aqui die
+[08May2025 23:40:44.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> me parece que va a ser por aca
+[08May2025 23:40:49.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> parece
+[08May2025 23:41:21.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> aca
+[08May2025 23:41:45.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> esta debajo
+[08May2025 23:41:47.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> si XDD
+[08May2025 23:41:49.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> si
+[08May2025 23:41:55.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> si miras las entidades hay bastantes aca abajo
+[08May2025 23:41:58.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> si
+[08May2025 23:42:01.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> hacemos lo del suelo ?
+[08May2025 23:42:04.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> hay cuevacerca?
+[08May2025 23:42:15.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> No
+[08May2025 23:42:20.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> hacemos lo del suelo ?
+[08May2025 23:42:22.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> un ojo se metio pa la tierra
+[08May2025 23:42:26.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> XDD
+[08May2025 23:42:26.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> y lo perdi XD
+[08May2025 23:42:39.523] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:42:54.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> oe{
+[08May2025 23:42:57.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> ¿?
+[08May2025 23:42:59.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> hacemos lo del suelo ?
+[08May2025 23:43:02.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> si
+[08May2025 23:43:05.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[08May2025 23:43:05.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[08May2025 23:43:06.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> mas encilo no?
+[08May2025 23:43:08.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> si
+[08May2025 23:43:15.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> en por dos
+[08May2025 23:43:24.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> aca
+[08May2025 23:43:29.180] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:43:29.824] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:43:31.177] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:43:31.977] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:43:41.624] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:43:49.377] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:43:49.979] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:43:50.781] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:43:50.781] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 23:43:54.977] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:44:11.099] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:44:12.082] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:44:12.825] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:44:14.420] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:44:15.870] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:44:26.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> perame un momento
+[08May2025 23:44:28.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> no me demoro
+[08May2025 23:46:18.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> Volvi
+[08May2025 23:47:19.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> que susto
+[08May2025 23:47:22.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> por?
+[08May2025 23:47:27.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> escuche picas
+[08May2025 23:47:29.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> picar *
+[08May2025 23:47:34.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> Xd
+[08May2025 23:47:50.498] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:47:54.379] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:47:54.974] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:47:56.377] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:47:57.028] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:47:57.628] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:47:57.931] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:47:58.224] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:47:58.783] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:47:59.036] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:47:59.427] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:48:00.019] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:48:00.673] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:48:00.973] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:48:01.234] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:48:01.579] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:48:03.775] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:48:03.989] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:48:04.000] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:48:04.049] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:48:04.097] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:48:04.147] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:48:04.197] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:48:04.249] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:48:04.297] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:48:04.329] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:48:04.348] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:48:04.398] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:48:04.447] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:48:04.499] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:48:05.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[08May2025 23:48:05.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[08May2025 23:48:07.474] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:48:08.074] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:48:08.074] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 23:48:39.427] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:48:40.680] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:48:42.676] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:48:44.733] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:48:48.954] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:48:50.502] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:48:51.277] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:48:51.836] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:48:51.924] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:48:55.438] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:48:59.701] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:48:59.701] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 23:49:01.229] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:01.675] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:02.428] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:02.529] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:03.274] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:04.023] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:04.498] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:04.550] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:04.603] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:04.648] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:04.698] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:04.728] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:04.747] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:04.797] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:04.849] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:04.898] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:04.947] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:04.998] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:05.048] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:06.550] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:06.898] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:08.220] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:09.636] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:09.921] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:09.922] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 23:49:10.620] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:11.329] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:12.252] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:12.300] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:12.347] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:12.405] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:12.453] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:12.502] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:12.553] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:12.601] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:12.651] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:12.699] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:12.699] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:12.748] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:14.346] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:14.397] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:14.452] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:14.498] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:14.547] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:14.598] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:14.647] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:14.699] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:49:26.079] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:26.079] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 23:49:26.079] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:26.079] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:26.425] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:26.904] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:26.904] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 23:49:28.486] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:28.486] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 23:49:30.224] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:45.498] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:47.800] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:49.186] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:49.186] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 23:49:51.883] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:51.883] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 23:49:51.883] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:52.709] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:52.709] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 23:49:52.709] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:54.330] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:49:54.330] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 23:50:00.123] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:52:00.877] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:52:02.979] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:52:03.772] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:52:08.128] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:52:16.019] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:52:16.729] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:52:23.674] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:52:24.479] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:52:24.602] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:52:25.426] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:52:25.427] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 23:52:25.427] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:52:25.638] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:52:28.575] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:52:29.496] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:29.834] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:52:31.077] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:52:31.205] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.248] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.298] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.298] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.349] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.349] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.397] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.397] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.447] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.448] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.497] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.497] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.548] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.549] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.597] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.597] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.648] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.648] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.699] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.699] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.748] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.748] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.798] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.799] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.849] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.849] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.897] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.897] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.947] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:31.998] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:32.049] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:32.099] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:32.150] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:32.200] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:32.252] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:32.253] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:32.297] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:32.297] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:32.346] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:32.346] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:32.696] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:32.747] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:32.800] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:32.849] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:32.881] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:52:32.881] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 23:52:32.898] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:32.948] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:32.996] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:33.046] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:33.100] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:33.147] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:33.197] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:33.197] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:33.248] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:33.248] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:33.297] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:33.297] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:33.346] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:33.347] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:33.397] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:33.397] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:33.448] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:33.475] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:52:33.499] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:33.549] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:33.598] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:33.648] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:33.746] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:33.898] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:33.947] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:33.996] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:34.048] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:34.098] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:34.147] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:34.178] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:52:34.196] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:34.251] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:34.298] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:34.349] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:34.398] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:38.499] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:38.549] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:38.606] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:38.662] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:38.700] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:40.353] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:40.398] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:40.447] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:40.499] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:40.547] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:40.596] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:40.647] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:40.696] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:40.747] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:40.796] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:40.848] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:40.896] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:40.946] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:40.997] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:41.049] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:52:41.096] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:53:05.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[08May2025 23:53:05.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[08May2025 23:53:39.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> en que capa pueden spawnear
+[08May2025 23:54:04.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> tenes mas ojos?
+[08May2025 23:54:06.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> y no se
+[08May2025 23:55:09.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> los ojos no van " cerca " nomas ?
+[08May2025 23:55:14.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> o van directo al dragon
+[08May2025 23:55:14.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> no se
+[08May2025 23:55:19.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> A XD
+[08May2025 23:55:50.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> creo que van firecto
+[08May2025 23:57:00.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> llego mipapá
+[08May2025 23:57:01.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> perame
+[08May2025 23:57:27.175] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:57:27.872] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:57:29.653] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:57:31.176] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:57:33.583] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:57:34.281] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:57:55.775] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:57:56.425] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:57:57.749] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:57:57.800] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08May2025 23:57:58.377] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:57:58.377] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 23:57:59.132] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:57:59.133] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 23:58:01.182] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:58:02.630] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:58:05.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[08May2025 23:58:05.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[08May2025 23:58:14.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> volvi
+[08May2025 23:58:31.630] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:58:34.464] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:58:34.464] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08May2025 23:58:34.674] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:58:44.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> ve, el ojo estaba aca
+[08May2025 23:58:47.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> XF
+[08May2025 23:58:52.486] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08May2025 23:59:07.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> esta mas para arriba
+[09May2025 00:00:00.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> esuche romper bloques bl
+[09May2025 00:00:15.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> explocion ?
+[09May2025 00:00:30.874] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 00:00:38.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> ahi esta
+[09May2025 00:00:58.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> vand irecto al kbronp arece
+[09May2025 00:01:08.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> si
+[09May2025 00:01:10.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> ya te disapro
+[09May2025 00:01:26.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> piedra
+[09May2025 00:01:28.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> diferente
+[09May2025 00:01:30.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> cuidado
+[09May2025 00:01:39.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> llamamos la atencion y bajamos al toque
+[09May2025 00:01:44.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> si
+[09May2025 00:01:57.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko has reached the goal [Postmortal]
+[09May2025 00:02:05.800] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[09May2025 00:02:05.800] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 24.0 Armor value: 17.0 Damage ignoring armor (50.0% damage): 12.0 Damage not ignoring armor: 12.0 Reduced Damage: 6.7200003 Result Damage: 18.720001
+[09May2025 00:02:09.646] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[09May2025 00:02:09.646] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 22.0 Armor value: 17.0 Damage ignoring armor (50.0% damage): 11.0 Damage not ignoring armor: 11.0 Reduced Damage: 5.9399996 Result Damage: 16.939999
+[09May2025 00:02:12.998] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[09May2025 00:02:12.998] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 11.5 Armor value: 17.0 Damage ignoring armor (50.0% damage): 5.75 Damage not ignoring armor: 5.75 Reduced Damage: 2.50125 Result Damage: 8.25125
+[09May2025 00:02:15.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> f3 + b si necesitas mas ayuda
+[09May2025 00:02:17.098] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[09May2025 00:02:17.099] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 34.5 Armor value: 17.0 Damage ignoring armor (50.0% damage): 17.25 Damage not ignoring armor: 17.25 Reduced Damage: 11.47125 Result Damage: 28.721249
+[09May2025 00:02:18.346] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[09May2025 00:02:18.346] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 39.0 Armor value: 17.0 Damage ignoring armor (50.0% damage): 19.5 Damage not ignoring armor: 19.5 Reduced Damage: 13.845001 Result Damage: 33.345
+[09May2025 00:02:21.246] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[09May2025 00:02:21.246] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 30.0 Armor value: 17.0 Damage ignoring armor (50.0% damage): 15.0 Damage not ignoring armor: 15.0 Reduced Damage: 9.3 Result Damage: 24.3
+[09May2025 00:02:24.198] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[09May2025 00:02:24.198] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 31.5 Armor value: 17.0 Damage ignoring armor (50.0% damage): 15.75 Damage not ignoring armor: 15.75 Reduced Damage: 10.00125 Result Damage: 25.751251
+[09May2025 00:02:26.949] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[09May2025 00:02:26.949] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 31.5 Armor value: 17.0 Damage ignoring armor (50.0% damage): 15.75 Damage not ignoring armor: 15.75 Reduced Damage: 10.00125 Result Damage: 25.751251
+[09May2025 00:02:29.347] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[09May2025 00:02:29.347] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 28.5 Armor value: 17.0 Damage ignoring armor (50.0% damage): 14.25 Damage not ignoring armor: 14.25 Reduced Damage: 8.62125 Result Damage: 22.87125
+[09May2025 00:02:31.650] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[09May2025 00:02:31.650] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 33.0 Armor value: 17.0 Damage ignoring armor (50.0% damage): 16.5 Damage not ignoring armor: 16.5 Reduced Damage: 10.724999 Result Damage: 27.224998
+[09May2025 00:02:33.698] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[09May2025 00:02:33.698] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 25.5 Armor value: 17.0 Damage ignoring armor (50.0% damage): 12.75 Damage not ignoring armor: 12.75 Reduced Damage: 7.3312497 Result Damage: 20.08125
+[09May2025 00:02:36.246] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[09May2025 00:02:36.246] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 19.0 Armor value: 17.0 Damage ignoring armor (50.0% damage): 9.5 Damage not ignoring armor: 9.5 Reduced Damage: 4.845 Result Damage: 14.344999
+[09May2025 00:02:38.647] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[09May2025 00:02:38.647] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 19.0 Armor value: 17.0 Damage ignoring armor (50.0% damage): 9.5 Damage not ignoring armor: 9.5 Reduced Damage: 4.845 Result Damage: 14.344999
+[09May2025 00:02:41.048] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[09May2025 00:02:41.048] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 19.0 Armor value: 17.0 Damage ignoring armor (50.0% damage): 9.5 Damage not ignoring armor: 9.5 Reduced Damage: 4.845 Result Damage: 14.344999
+[09May2025 00:02:43.352] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[09May2025 00:02:43.352] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 21.0 Armor value: 17.0 Damage ignoring armor (50.0% damage): 10.5 Damage not ignoring armor: 10.5 Reduced Damage: 5.5649996 Result Damage: 16.064999
+[09May2025 00:02:45.650] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[09May2025 00:02:45.650] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 23.0 Armor value: 17.0 Damage ignoring armor (50.0% damage): 11.5 Damage not ignoring armor: 11.5 Reduced Damage: 6.3250003 Result Damage: 17.825
