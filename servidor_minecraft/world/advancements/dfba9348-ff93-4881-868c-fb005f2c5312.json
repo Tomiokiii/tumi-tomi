@@ -3777,6 +3777,7 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
+      "wither_skeleton_skull": "2025-05-09 21:25:36 +0000",
       "skeleton_skull": "2025-05-06 04:38:58 +0000"
     },
     "done": false
@@ -5802,6 +5803,18 @@
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-05-09 21:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-09 21:25:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-09 21:25:36 +0000"
     },
     "done": true
   },

@@ -175,3 +175,4 @@
 [09May2025 21:14:41.243] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElTumiko[/127.110.76.174:58309] logged in with entity id 71 at (175.69999998807907, 67.0, 218.69999998807907)
 [09May2025 21:14:41.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko joined the game
 [09May2025 21:14:43.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[09May2025 21:25:36.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko has made the advancement [Spooky Scary Skeleton]
