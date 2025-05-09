@@ -5316,3 +5316,18 @@
 [09May2025 04:05:00.749] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTomiokiii lost connection: Disconnected
 [09May2025 04:05:00.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTomiokiii left the game
 [09May2025 04:12:12.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTumiko moved too quickly! 9.413829480926779,0.3800236743955381,3.5825926719764993
+[09May2025 04:23:56.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> a
+[09May2025 04:25:00.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> A
+[09May2025 04:28:33.201] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/222850, l='ServerLevel[tumiko y tomiokiii]', x=-4446.33, y=129.89, z=2726.48]
+[09May2025 04:28:54.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 9.410758543176598,0.0,6.430677439945612
+[09May2025 04:28:54.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 10.743770562208738,0.0,7.196896579613167
+[09May2025 04:28:54.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 11.91948716299521,0.0,7.8727018608001345
+[09May2025 04:28:54.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 12.95646920488889,0.0,8.468762118806808
+[09May2025 04:29:25.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 9.609336904911288,0.4349156547244206,-5.421832552734941
+[09May2025 04:29:25.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 11.54778469908797,0.49366687554629607,-6.515466951977032
+[09May2025 04:29:25.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 13.490213789517838,0.5454854523111976,-7.611326298700078
+[09May2025 04:29:25.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 15.436114750554225,0.5911894370178175,-8.709125692726047
+[09May2025 04:29:25.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 9.70959022723764,0.2631960582806414,-5.477867704334585
+[09May2025 04:29:25.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 11.661141562788544,0.2987502848795316,-6.578823875288435
+[09May2025 04:29:25.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 13.614971811707619,0.3301091127397626,-7.681052933656247
+[09May2025 04:29:25.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ElTumiko) moved too quickly! 15.570773981256934,0.35776759891251686,-8.78438319766201

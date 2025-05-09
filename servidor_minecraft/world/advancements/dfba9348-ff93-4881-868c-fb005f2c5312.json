@@ -4983,6 +4983,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-05-09 04:27:35 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/iced_dragon_bone_scythe": {
     "criteria": {
       "has_ice_dragon_blood": "2025-05-09 04:11:11 +0000"
@@ -4998,6 +5004,12 @@
   "spartanfire:recipes/iced_dragon_bone_boomerang": {
     "criteria": {
       "has_ice_dragon_blood": "2025-05-09 04:11:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2025-05-09 04:20:19 +0000"
     },
     "done": true
   },
@@ -5031,6 +5043,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-05-09 04:20:19 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/iced_dragon_bone_longsword": {
     "criteria": {
       "has_ice_dragon_blood": "2025-05-09 04:11:11 +0000"
@@ -5049,9 +5067,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-05-09 04:27:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-09 04:20:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-05-09 04:13:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-05-09 04:27:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-05-09 04:20:19 +0000"
     },
     "done": true
   },
@@ -5085,6 +5127,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-05-09 04:27:35 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/iced_dragon_bone_tomahawk": {
     "criteria": {
       "has_ice_dragon_blood": "2025-05-09 04:11:11 +0000"
@@ -5094,6 +5142,12 @@
   "spartanfire:recipes/iced_dragon_bone_battle_hammer": {
     "criteria": {
       "has_ice_dragon_blood": "2025-05-09 04:11:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-09 04:27:35 +0000"
     },
     "done": true
   },
@@ -5220,6 +5274,12 @@
   "spartanfire:recipes/iced_dragon_bone_lance": {
     "criteria": {
       "has_ice_dragon_blood": "2025-05-09 04:11:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2025-05-09 04:20:19 +0000"
     },
     "done": true
   },
