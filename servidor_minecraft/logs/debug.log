@@ -6568,3 +6568,89 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09May2025 19:31:26.748] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [09May2025 19:31:27.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko has made the advancement [War Pigs]
 [09May2025 19:31:33.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko has made the advancement [Hidden in the Depths]
+[09May2025 19:33:58.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[09May2025 19:33:58.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[09May2025 19:34:37.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko has made the advancement [A Terrible Fortress]
+[09May2025 19:34:41.394] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:34:42.282] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:35:02.991] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[09May2025 19:35:02.991] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 24.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 12.0 Damage not ignoring armor: 12.0 Reduced Damage: 12.0 Result Damage: 24.0
+[09May2025 19:35:05.392] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[09May2025 19:35:05.393] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 25.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 12.5 Damage not ignoring armor: 12.5 Reduced Damage: 12.5 Result Damage: 25.0
+[09May2025 19:35:10.678] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:35:11.992] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:35:13.432] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:35:14.142] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:36:17.192] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:36:17.293] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 19:36:17.493] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 19:36:17.541] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 19:36:17.591] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 19:36:17.642] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 19:36:17.692] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 19:36:17.742] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 19:36:17.795] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:36:18.043] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 19:36:18.093] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 19:36:21.541] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 19:36:21.590] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 19:36:21.642] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 19:36:21.690] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 19:36:21.742] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 19:36:21.793] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 19:36:21.840] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 19:36:21.891] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 19:36:21.941] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 19:37:10.490] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[09May2025 19:37:10.490] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 24.0 Armor value: 11.0 Damage ignoring armor (50.0% damage): 12.0 Damage not ignoring armor: 12.0 Reduced Damage: 9.6 Result Damage: 21.6
+[09May2025 19:37:13.590] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[09May2025 19:37:13.590] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 19.0 Armor value: 11.0 Damage ignoring armor (50.0% damage): 9.5 Damage not ignoring armor: 9.5 Reduced Damage: 7.125 Result Damage: 16.625
+[09May2025 19:37:44.633] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:37:45.295] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:37:45.832] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:37:55.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko has made the advancement [Into Fire]
+[09May2025 19:38:02.284] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:38:02.883] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:38:04.741] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:38:05.441] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:38:05.442] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09May2025 19:38:58.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[09May2025 19:38:58.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[09May2025 19:39:51.783] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:39:52.842] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:40:00.991] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:40:01.742] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:40:02.391] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:40:02.983] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:40:24.834] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:40:26.193] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:40:27.180] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:40:27.842] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:40:33.834] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:40:33.834] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09May2025 19:40:34.483] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:40:35.292] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:40:36.991] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 19:41:40.642] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[09May2025 19:41:40.642] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 18.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 9.0 Damage not ignoring armor: 9.0 Reduced Damage: 9.0 Result Damage: 18.0
+[09May2025 19:41:56.443] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[09May2025 19:41:56.443] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 19.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 9.5 Damage not ignoring armor: 9.5 Reduced Damage: 9.5 Result Damage: 19.0
+[09May2025 19:42:02.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTumiko lost connection: Disconnected
+[09May2025 19:42:02.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTumiko left the game
+[09May2025 19:42:06.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09May2025 19:42:06.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09May2025 19:42:06.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09May2025 19:42:06.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09May2025 19:42:06.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[tumiko y tomiokiii]'/minecraft:overworld
+[09May2025 19:42:06.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[tumiko y tomiokiii]'/minecraft:the_end
+[09May2025 19:42:06.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[tumiko y tomiokiii]'/minecraft:the_nether
+[09May2025 19:42:06.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[tumiko y tomiokiii]'/twilightforest:twilight_forest
+[09May2025 19:42:06.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save tumiko y tomiokiii
+[09May2025 19:42:06.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete tumiko y tomiokiii
+[09May2025 19:42:06.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09May2025 19:42:06.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09May2025 19:42:06.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09May2025 19:42:06.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[09May2025 19:42:06.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09May2025 19:42:06.774] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[09May2025 19:42:06.775] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
