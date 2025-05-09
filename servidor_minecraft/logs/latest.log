@@ -285,3 +285,23 @@
 [09May2025 00:54:00.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 39.40346839813992,-13.784222582209807,70.7890455243396
 [09May2025 00:54:07.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> se me bajo una banda el inter
 [09May2025 00:54:12.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> una rayita bl
+[09May2025 00:54:14.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTumiko> uy mano
+[09May2025 00:54:15.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ElTomiokiii> XD
+[09May2025 00:54:26.462] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTomiokiii lost connection: Disconnected
+[09May2025 00:54:26.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTomiokiii left the game
+[09May2025 00:54:45.160] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ElTomiokiii is c9118ff5-4174-48ea-b169-60aae0aed7ea
+[09May2025 00:54:48.655] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElTomiokiii[/127.213.250.82:37747] logged in with entity id 76089 at (-1327.9632347953898, 104.0, 4009.9747691224115)
+[09May2025 00:54:48.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTomiokiii joined the game
+[09May2025 00:55:28.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -4.470175447649581,-2.70544495382552,10.445260786175822
+[09May2025 00:55:28.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -4.727645390672251,-2.989426549446705,12.337027790797947
+[09May2025 00:55:28.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -4.884441785767422,-3.23989831678459,14.258618427621514
+[09May2025 00:55:28.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -4.952444111590694,-3.460814415576607,16.206513508047465
+[09May2025 00:55:29.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 0.6260353564400702,1.5956249292110272,-13.592078894729639
+[09May2025 00:55:29.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 0.6260353564400702,1.5956249292110272,-13.592078894729639
+[09May2025 00:55:29.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 0.6260353564400702,1.5956249292110272,-13.592078894729639
+[09May2025 00:55:29.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 0.6260353564400702,1.5956249292110272,-13.592078894729639
+[09May2025 00:55:29.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! 0.8219983892304299,1.4619340726479635,-11.567093479990945
+[09May2025 00:55:29.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 𝙿𝚎𝚗𝚎𝚌𝚌𝚒𝚝𝚘 (vehicle of ElTomiokiii) moved too quickly! -0.7803958103490913,-1.4480200630603122,11.579533084342074
+[09May2025 00:55:58.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTumiko moved wrongly!
+[09May2025 01:03:41.250] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTomiokiii lost connection: Disconnected
+[09May2025 01:03:41.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTomiokiii left the game
