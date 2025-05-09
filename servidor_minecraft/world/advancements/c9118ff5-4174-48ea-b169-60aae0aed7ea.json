@@ -5527,5 +5527,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-09 00:43:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_copper_to_dragonscales_copper": {
+    "criteria": {
+      "has_dragonscale_copper": "2025-05-09 00:44:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
